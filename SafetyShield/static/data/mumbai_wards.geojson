@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "A",
+        "name": "Colaba",
+        "population": 210847
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.815, 18.910],
+            [72.835, 18.910],
+            [72.835, 18.930],
+            [72.815, 18.930],
+            [72.815, 18.910]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "B",
+        "name": "Sandhurst Road",
+        "population": 127290
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.825, 18.940],
+            [72.845, 18.940],
+            [72.845, 18.960],
+            [72.825, 18.960],
+            [72.825, 18.940]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "C",
+        "name": "Marine Lines",
+        "population": 166161
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.820, 18.950],
+            [72.840, 18.950],
+            [72.840, 18.970],
+            [72.820, 18.970],
+            [72.820, 18.950]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "D",
+        "name": "Grant Road",
+        "population": 346866
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.815, 18.965],
+            [72.835, 18.965],
+            [72.835, 18.985],
+            [72.815, 18.985],
+            [72.815, 18.965]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "E",
+        "name": "Byculla",
+        "population": 393286
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.825, 18.975],
+            [72.845, 18.975],
+            [72.845, 18.995],
+            [72.825, 18.995],
+            [72.825, 18.975]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "F/N",
+        "name": "Matunga",
+        "population": 529034
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.830, 19.010],
+            [72.850, 19.010],
+            [72.850, 19.030],
+            [72.830, 19.030],
+            [72.830, 19.010]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "F/S",
+        "name": "Parel",
+        "population": 360972
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.835, 18.990],
+            [72.855, 18.990],
+            [72.855, 19.010],
+            [72.835, 19.010],
+            [72.835, 18.990]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "G/N",
+        "name": "Dadar",
+        "population": 582007
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.825, 19.020],
+            [72.845, 19.020],
+            [72.845, 19.040],
+            [72.825, 19.040],
+            [72.825, 19.020]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "G/S",
+        "name": "Elphinstone",
+        "population": 377749
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.820, 19.000],
+            [72.840, 19.000],
+            [72.840, 19.020],
+            [72.820, 19.020],
+            [72.820, 19.000]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "H/E",
+        "name": "Santacruz East",
+        "population": 580835
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.845, 19.070],
+            [72.865, 19.070],
+            [72.865, 19.090],
+            [72.845, 19.090],
+            [72.845, 19.070]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "H/W",
+        "name": "Bandra West",
+        "population": 337391
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.815, 19.045],
+            [72.835, 19.045],
+            [72.835, 19.065],
+            [72.815, 19.065],
+            [72.815, 19.045]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "K/E",
+        "name": "Andheri East",
+        "population": 810002
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.855, 19.105],
+            [72.875, 19.105],
+            [72.875, 19.125],
+            [72.855, 19.125],
+            [72.855, 19.105]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "K/W",
+        "name": "Andheri West",
+        "population": 700680
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.825, 19.115],
+            [72.845, 19.115],
+            [72.845, 19.135],
+            [72.825, 19.135],
+            [72.825, 19.115]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "L",
+        "name": "Kurla",
+        "population": 778278
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.875, 19.055],
+            [72.895, 19.055],
+            [72.895, 19.075],
+            [72.875, 19.075],
+            [72.875, 19.055]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "M/E",
+        "name": "Chembur East",
+        "population": 674850
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.885, 19.040],
+            [72.905, 19.040],
+            [72.905, 19.060],
+            [72.885, 19.060],
+            [72.885, 19.040]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ward_id": "M/W",
+        "name": "Chembur West",
+        "population": 378050
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.865, 19.025],
+            [72.885, 19.025],
+            [72.885, 19.045],
+            [72.865, 19.045],
+            [72.865, 19.025]
+          ]
+        ]
+      }
+    }
+  ]
+}

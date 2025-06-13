@@ -1,0 +1,31 @@
+incident_type,ward_id,latitude,longitude,timestamp,severity,description
+theft,A,18.915,72.825,2023-01-01 01:30:00,2,Pickpocketing incident near tourist area
+assault,B,18.950,72.835,2023-01-01 23:15:00,4,Physical altercation outside bar
+robbery,C,18.960,72.830,2023-01-01 22:45:00,3,Armed robbery at convenience store
+theft,D,18.975,72.825,2023-01-01 14:20:00,2,Mobile phone theft in crowded market
+assault,E,18.985,72.835,2023-01-01 19:10:00,3,Fight between two groups
+theft,F/N,19.020,72.840,2023-01-01 12:00:00,1,Bicycle theft outside mall
+drugs,F/S,19.000,72.845,2023-01-01 23:40:00,3,Drug dealing in isolated area
+theft,G/N,19.030,72.835,2023-01-01 16:15:00,2,Purse snatching incident
+vandalism,G/S,19.010,72.830,2023-01-01 02:30:00,1,Graffiti on public property
+robbery,H/E,19.080,72.855,2023-01-01 21:20:00,4,Home invasion robbery
+assault,H/W,19.055,72.825,2023-01-01 20:00:00,3,Domestic violence call
+theft,K/E,19.115,72.865,2023-01-01 08:45:00,2,Auto parts theft from parked vehicle
+fraud,K/W,19.125,72.835,2023-01-01 15:00:00,2,ATM skimming device found
+assault,L,19.065,72.885,2023-01-01 22:00:00,3,Street fight between youth groups
+theft,M/E,19.050,72.895,2023-01-01 13:30:00,2,Shop lifting at retail store
+robbery,M/W,19.035,72.875,2023-01-01 01:00:00,3,Mugging incident on dimly lit street
+theft,A,18.920,72.825,2023-01-01 10:15:00,1,Wallet theft in marketplace
+assault,B,18.950,72.835,2023-01-01 20:30:00,3,Altercation between neighbors
+vandalism,C,18.955,72.830,2023-01-01 03:15:00,1,Property damage to storefront
+theft,A,18.915,72.820,2023-01-01 14:00:00,2,Theft from tourist's backpack
+drugs,D,18.975,72.825,2023-01-01 23:00:00,2,Drug use in public park
+assault,E,18.985,72.835,2023-01-01 21:45:00,4,Group assault outside nightclub
+theft,F/N,19.020,72.840,2023-01-01 11:30:00,1,Shoplifting at convenience store
+robbery,G/S,19.010,72.830,2023-01-01 00:20:00,3,Armed robbery of pedestrian
+theft,H/E,19.080,72.855,2023-01-01 16:40:00,2,Bicycle theft from residential complex
+assault,K/E,19.115,72.865,2023-01-01 19:30:00,3,Workplace altercation
+theft,L,19.065,72.885,2023-01-01 13:00:00,2,Vehicle break-in
+drugs,M/W,19.035,72.875,2023-01-01 02:45:00,3,Drug dealing in parking lot
+assault,A,18.920,72.825,2023-01-01 22:30:00,3,Tourist harassed by group
+theft,G/N,19.030,72.835,2023-01-01 09:15:00,2,Cash stolen from office desk

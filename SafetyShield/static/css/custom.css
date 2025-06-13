@@ -1,0 +1,281 @@
+/* Custom styles for Mumbai Safety Zone Predictor */
+
+/* Map container */
+#map {
+    width: 100%;
+    height: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+/* Control panel */
+.control-panel {
+    background-color: var(--bs-dark-bg-subtle);
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Time slider */
+.time-slider-container {
+    padding: 0.5rem 0;
+}
+
+#time-slider {
+    width: 100%;
+}
+
+/* Time preset buttons */
+.time-presets {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+}
+
+.time-preset {
+    font-size: 0.8rem;
+    padding: 0.25rem 0.5rem;
+}
+
+/* Play/pause controls */
+.playback-controls {
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+/* Legend */
+.legend {
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+}
+
+.legend .card {
+    background-color: var(--bs-body-bg);
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.legend i {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+    display: inline-block;
+    border-radius: 50%;
+    opacity: 0.8;
+    vertical-align: middle;
+}
+
+.safety-level-item {
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+}
+
+.safety-level-item span.badge {
+    margin-left: auto;
+}
+
+/* Info panel */
+.info-panel {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    background-color: var(--bs-dark-bg-subtle);
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.info-panel.show {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+/* Ward popup */
+.ward-popup {
+    min-width: 240px;
+}
+
+.ward-popup h5 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    border-bottom: 1px solid var(--bs-border-color);
+    padding-bottom: 0.5rem;
+}
+
+.safety-info {
+    margin-top: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.popup-actions {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+.popup-actions .btn {
+    flex: 1;
+    white-space: nowrap;
+    font-size: 0.75rem;
+}
+
+/* Error overlay */
+.map-error-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* Search control */
+.leaflet-control-search-container {
+    background: white;
+    border-radius: 4px;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+    overflow: hidden;
+}
+
+.leaflet-control-search {
+    display: flex;
+    padding: 5px;
+}
+
+.leaflet-control-search input {
+    flex: 1;
+    margin-right: 5px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    padding: 4px 8px;
+}
+
+.leaflet-control-search button {
+    white-space: nowrap;
+}
+
+/* Search result marker */
+.search-result-marker {
+    color: #ff4500;
+    font-size: 24px;
+    text-shadow: 2px 2px 3px rgba(0,0,0,0.4);
+}
+
+.search-result-popup h6 {
+    margin-bottom: 0.5rem;
+}
+
+/* Ward tooltip */
+.ward-tooltip {
+    font-weight: bold;
+    background: rgba(0,0,0,0.7);
+    border: none;
+    color: white;
+    padding: 4px 8px;
+}
+
+/* Ward markers custom styling */
+.marker-green {
+    background-color: #28a745;
+    border-color: #fff;
+}
+
+.marker-yellow {
+    background-color: #ffc107;
+    border-color: #fff;
+}
+
+.marker-red {
+    background-color: #dc3545;
+    border-color: #fff;
+}
+
+/* Ward details sidebar */
+#ward-details {
+    transition: all 0.3s ease;
+}
+
+#ward-name {
+    border-bottom: 1px solid var(--bs-border-color);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+#ward-risk-factors {
+    margin-top: 0.5rem;
+}
+
+#future-predictions {
+    margin-top: 1.5rem;
+}
+
+.future-hour {
+    text-align: center;
+}
+
+.hour-label {
+    font-size: 0.8rem;
+    margin-bottom: 0.25rem;
+}
+
+.safety-indicator {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+/* Historical data styles */
+.historical-data-content {
+    max-height: 70vh;
+    overflow-y: auto;
+}
+
+/* Alert and badge colors */
+.alert-green, .bg-green {
+    background-color: #28a745 !important;
+    color: white !important;
+}
+
+.alert-yellow, .bg-yellow {
+    background-color: #ffc107 !important;
+    color: black !important;
+}
+
+.alert-red, .bg-red {
+    background-color: #dc3545 !important;
+    color: white !important;
+}
+
+/* Add toast container styling */
+#toast-container {
+    z-index: 1100;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    #map {
+        height: 400px;
+    }
+    
+    .time-presets {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+    }
+    
+    .time-preset {
+        flex: 1 0 20%;
+    }
+    
+    .popup-actions {
+        flex-direction: column;
+    }
+    
+    .leaflet-control-search input {
+        max-width: 150px;
+    }
+}

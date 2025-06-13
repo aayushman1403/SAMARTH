@@ -1,0 +1,145 @@
+{% extends 'base.html' %}
+
+{% block title %}About - Mumbai Safety Zone Predictor{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <div class="card">
+                <div class="card-body">
+                    <h2 class="card-title mb-4">About Mumbai Safety Zone Predictor</h2>
+                    
+                    <p class="lead">
+                        The Mumbai Safety Zone Predictor is an innovative smart policing tool designed to visualize and predict safety levels across Mumbai's wards throughout the day.
+                    </p>
+                    
+                    <hr class="my-4">
+                    
+                    <h3>Our Mission</h3>
+                    <p>
+                        To enhance public safety through data-driven insights, empowering law enforcement agencies to optimize resource allocation and implement preventive measures in high-risk areas.
+                    </p>
+                    
+                    <h3 class="mt-4">How It Works</h3>
+                    <p>
+                        Our system uses advanced machine learning techniques to analyze historical crime data and predict safety levels for each ward in Mumbai based on time of day.
+                    </p>
+                    
+                    <div class="row mt-4">
+                        <div class="col-md-6">
+                            <div class="card mb-3">
+                                <div class="card-header bg-primary text-white">
+                                    <i class="fas fa-database me-2"></i> Data Sources
+                                </div>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">Mumbai OpenCity CSV datasets</li>
+                                    <li class="list-group-item">Kaggle's "Crime in India" dataset</li>
+                                    <li class="list-group-item">Police station reports</li>
+                                    <li class="list-group-item">Demographic information</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="card mb-3">
+                                <div class="card-header bg-success text-white">
+                                    <i class="fas fa-brain me-2"></i> Technology Stack
+                                </div>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">ConvLSTM neural network models</li>
+                                    <li class="list-group-item">Flask web framework</li>
+                                    <li class="list-group-item">Leaflet.js for interactive maps</li>
+                                    <li class="list-group-item">TensorFlow for prediction</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <h3 class="mt-4">Safety Level Indicators</h3>
+                    <div class="row mb-4">
+                        <div class="col-md-4">
+                            <div class="card text-center">
+                                <div class="card-body" style="background-color: #28a745; color: white;">
+                                    <h5 class="card-title">Green Zone</h5>
+                                    <p class="card-text">Safe areas with low crime probability</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card text-center">
+                                <div class="card-body" style="background-color: #ffc107; color: black;">
+                                    <h5 class="card-title">Yellow Zone</h5>
+                                    <p class="card-text">Moderate risk, exercise caution</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card text-center">
+                                <div class="card-body" style="background-color: #dc3545; color: white;">
+                                    <h5 class="card-title">Red Zone</h5>
+                                    <p class="card-text">High risk, increased vigilance needed</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <h3 class="mt-4">Benefits for Law Enforcement</h3>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <ul class="list-group mb-4">
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle text-success me-2"></i>
+                                    Optimize patrol routes based on predicted risk
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle text-success me-2"></i>
+                                    Allocate resources efficiently across wards
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle text-success me-2"></i>
+                                    Identify high-risk time periods for specific areas
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-6">
+                            <ul class="list-group mb-4">
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle text-success me-2"></i>
+                                    Implement preventive measures in high-risk zones
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle text-success me-2"></i>
+                                    Reduce response times through strategic positioning
+                                </li>
+                                <li class="list-group-item">
+                                    <i class="fas fa-check-circle text-success me-2"></i>
+                                    Data-driven decision making for improved safety
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                    <h3 class="mt-4">Future Developments</h3>
+                    <p>
+                        We are continually improving our system with these upcoming features:
+                    </p>
+                    <ul class="list-group mb-4">
+                        <li class="list-group-item">Real-time incident reporting integration</li>
+                        <li class="list-group-item">Mobile app for field officers with real-time alerts</li>
+                        <li class="list-group-item">Predictive analytics for specific crime types</li>
+                        <li class="list-group-item">Integration with emergency response systems</li>
+                        <li class="list-group-item">Community reporting feature for improved data collection</li>
+                    </ul>
+                    
+                    <div class="text-center mt-5">
+                        <a href="/" class="btn btn-primary">
+                            <i class="fas fa-map-marked-alt me-2"></i>
+                            Return to Map
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
