@@ -1,0 +1,1001 @@
+CaseID,FilingDate,CrimeType,Location,Description,PriorityLabel
+CR-2021-10000,2024-08-24,Theft,Central Park,Victim reported wallet stolen from sidewalk. No witnesses present.,0
+CR-2022-10001,2022-08-16,Theft,Downtown,Suspect took victim's phone when victim was not looking at public restroom.,0
+CR-2022-10002,2024-09-04,Vandalism,Downtown,Business storefront windows broken with rocks. Surveillance camera captured incident.,0
+CR-2019-10003,2023-03-26,Harassment,North District,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2021-10004,2023-01-18,Fraud,East District,Victim was deceived into transferring $500 to fraudulent investment scheme.,0
+CR-2022-10005,2024-05-03,Theft,East District,Victim's jewelry was taken while they were working. No suspects identified.,0
+CR-2019-10006,2024-03-16,Burglary,South District,Suspect broke into residence via balcony door and took electronics and jewelry. No witnesses.,0
+CR-2020-10007,2024-07-26,Assault,Industrial Area,Victim sustained black eye after altercation with suspect at public restroom.,1
+CR-2022-10008,2024-08-04,Theft,University Campus,Unknown suspect stole vehicle from victim's sidewalk. No surveillance footage available.,0
+CR-2021-10009,2022-04-30,Robbery,North District,"Bank robbery involving suspect with knife, escaped with undisclosed amount.",0
+CR-2022-10010,2024-09-30,Drug Offense,South District,Suspect observed selling hallucinogens near park bench.,0
+CR-2021-10011,2023-09-07,Harassment,Downtown,Victim reported ongoing harassment by neighbor including noise disturbances.,0
+CR-2018-10012,2025-02-05,Assault,North District,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,1
+CR-2021-10013,2024-03-19,Harassment,South District,Victim received 15 threatening messages from known suspect over 3 months.,0
+CR-2019-10014,2025-01-06,Fraud,Shopping Mall,"Suspect used victim's identity to open utility accounts, causing financial damage of $10000.",1
+CR-2021-10015,2025-01-27,Other,Industrial Area,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10016,2023-03-20,Fraud,East District,Victim reported unauthorized transactions totaling $100000 on their credit card.,0
+CR-2018-10017,2024-05-19,Fraud,North District,"Suspect used victim's identity to open investment accounts, causing financial damage of $2500.",0
+CR-2022-10018,2022-05-01,Theft,Downtown,Victim's bicycle was taken while they were walking. No suspects identified.,0
+CR-2018-10019,2024-01-24,Theft,Central Park,Unknown suspect stole wallet from victim's bus stop. No surveillance footage available.,0
+CR-2018-10020,2023-05-13,Vandalism,Central Park,"Public trash bins was destroyed, causing $648 in damages. No witnesses.",0
+CR-2022-10021,2022-12-03,Drug Offense,Shopping Mall,Search warrant execution revealed heroin and paraphernalia in suspect's residence.,0
+CR-2018-10022,2024-06-04,Burglary,Downtown,Suspect broke into residence via side entrance and took cash and electronics. No witnesses.,1
+CR-2022-10023,2022-07-24,Fraud,North District,"Suspect used victim's identity to open mobile phone accounts, causing financial damage of $50000.",0
+CR-2020-10024,2024-12-02,Burglary,University Campus,Business broken into overnight. skylight showed signs of forced entry. personal documents and valuables reported missing.,1
+CR-2020-10025,2025-02-08,Fraud,Central Park,"Suspect used victim's identity to open investment accounts, causing financial damage of $2500.",1
+CR-2020-10026,2023-05-14,Vandalism,Downtown,Property damaged by graffiti depicting gang symbols. Estimated repair cost: $1863.,0
+CR-2021-10027,2024-08-27,Drug Offense,North District,Suspect found in possession of heroin during routine traffic stop.,0
+CR-2021-10028,2023-08-14,Theft,South District,Victim's identity documents was taken while they were shopping. No suspects identified.,0
+CR-2020-10029,2023-10-09,Theft,Downtown,Victim reported identity documents stolen from sidewalk. No witnesses present.,0
+CR-2020-10030,2023-11-15,Drug Offense,North District,Suspect found in possession of methamphetamine during routine traffic stop.,0
+CR-2022-10031,2024-01-22,Assault,North District,Physical altercation between victim and known suspect resulted in defensive wounds on hands.,1
+CR-2021-10032,2022-10-23,Theft,North District,Suspect took victim's identity documents when victim was not looking at public restroom.,0
+CR-2018-10033,2024-01-04,Burglary,North District,Suspect broke into residence via garage door and took personal documents and valuables. No witnesses.,0
+CR-2020-10034,2024-01-25,Assault,West District,Physical altercation between victim and known suspect resulted in facial bruising.,1
+CR-2019-10035,2024-02-29,Theft,Downtown,Victim's wallet was taken while they were commuting. No suspects identified.,0
+CR-2018-10036,2023-07-02,Other,North District,Trespassing incident at closed business premises after hours.,0
+CR-2019-10037,2024-11-23,Theft,East District,Victim reported laptop stolen from park bench. No witnesses present.,0
+CR-2019-10038,2022-11-22,Theft,North District,Victim reported credit cards stolen from public restroom. No witnesses present.,0
+CR-2018-10039,2023-05-06,Theft,Downtown,Suspect took victim's credit cards when victim was not looking at office.,0
+CR-2021-10040,2024-04-15,Other,North District,Trespassing incident at closed business premises after hours.,0
+CR-2021-10041,2022-11-05,Burglary,North District,Business broken into overnight. basement window showed signs of forced entry. electronics and cash reported missing.,0
+CR-2022-10042,2024-09-16,Other,South District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2018-10043,2022-10-20,Theft,Downtown,Victim's jewelry was taken while they were talking with others. No suspects identified.,0
+CR-2021-10044,2024-05-19,Drug Offense,Downtown,Suspect found in possession of cocaine during routine traffic stop.,0
+CR-2020-10045,2022-09-10,Burglary,Downtown,Forced entry through balcony door. electronics and jewelry were stolen. No alarm system triggered.,0
+CR-2018-10046,2024-10-31,Burglary,East District,Suspect broke into residence via basement window and took electronics and jewelry. No witnesses.,1
+CR-2018-10047,2023-08-02,Theft,East District,Victim reported wallet stolen from bus stop. No witnesses present.,0
+CR-2019-10048,2023-01-04,Drug Offense,Central Park,Suspect found in possession of hallucinogens during routine traffic stop.,0
+CR-2018-10049,2024-09-13,Theft,Downtown,Victim reported identity documents stolen from bus stop. No witnesses present.,0
+CR-2021-10050,2023-07-13,Kidnapping,West District,"Brief abduction during carjacking incident, victim released unharmed.",1
+CR-2018-10051,2024-07-10,Harassment,Industrial Area,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2018-10052,2024-01-04,Theft,Downtown,Suspect took victim's purse when victim was not looking at public restroom.,0
+CR-2021-10053,2022-12-26,Theft,Downtown,Unknown suspect stole cash from victim's gym. No surveillance footage available.,0
+CR-2020-10054,2022-09-16,Theft,Downtown,Victim reported purse stolen from parking lot. No witnesses present.,0
+CR-2019-10055,2024-07-16,Assault,Transit Station,Unprovoked attack by unknown suspect left victim with lacerations requiring stitches. Witnesses described suspect as medium-built female with distinctive tattoos.,1
+CR-2021-10056,2022-09-24,Theft,South District,Suspect took victim's identity documents when victim was not looking at library.,0
+CR-2021-10057,2023-05-22,Burglary,East District,Business broken into overnight. garage door showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2020-10058,2023-07-30,Burglary,North District,Business broken into overnight. basement window showed signs of forced entry. electronics and jewelry reported missing.,0
+CR-2022-10059,2023-10-31,Homicide,West District,Victim discovered deceased in public restroom with suspicious circumstances.,1
+CR-2019-10060,2024-06-22,Drug Offense,West District,Suspect found in possession of synthetic drugs during routine traffic stop.,0
+CR-2018-10061,2023-07-13,Theft,South District,Victim reported purse stolen from bus stop. No witnesses present.,0
+CR-2021-10062,2023-10-15,Vandalism,Downtown,Business storefront windows broken with spray paint. Surveillance camera captured incident.,0
+CR-2021-10063,2022-09-21,Other,Shopping Mall,Violation of restraining order when suspect approached protected person.,0
+CR-2020-10064,2025-03-12,Other,South District,Violation of restraining order when suspect approached protected person.,0
+CR-2022-10065,2023-12-14,Other,Industrial Area,Violation of restraining order when suspect approached protected person.,0
+CR-2022-10066,2024-12-22,Theft,North District,Victim's identity documents was taken while they were working. No suspects identified.,0
+CR-2020-10067,2022-08-22,Burglary,South District,Suspect broke into residence via side entrance and took cash and electronics. No witnesses.,0
+CR-2019-10068,2024-03-02,Theft,East District,Victim reported vehicle stolen from office. No witnesses present.,0
+CR-2019-10069,2022-09-18,Burglary,North District,Home invasion occurred while residents were away. rear window was damaged. electronics and jewelry missing.,0
+CR-2018-10070,2022-12-18,Burglary,North District,Business broken into overnight. garage door showed signs of forced entry. electronics and jewelry reported missing.,0
+CR-2019-10071,2024-10-23,Fraud,Downtown,Victim reported unauthorized transactions totaling $2500 on their credit card.,1
+CR-2018-10072,2022-05-22,Robbery,West District,"Armed suspect demanded money from store clerk, escaped with $1432.",0
+CR-2021-10073,2023-07-31,Theft,East District,Suspect took victim's vehicle when victim was not looking at park bench.,0
+CR-2020-10074,2023-11-12,Other,Industrial Area,"Suspicious activity reported near gym, investigation ongoing.",0
+CR-2019-10075,2023-02-15,Theft,Industrial Area,Unknown suspect stole bicycle from victim's bus stop. No surveillance footage available.,0
+CR-2020-10076,2023-07-04,Burglary,Industrial Area,Suspect broke into residence via side entrance and took artwork and antiques. No witnesses.,0
+CR-2021-10077,2025-01-14,Other,South District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10078,2025-01-02,Fraud,East District,"Business reported accounting discrepancies amounting to $10000, suspected internal fraud.",1
+CR-2021-10079,2024-02-01,Other,East District,"Suspicious activity reported near library, investigation ongoing.",0
+CR-2020-10080,2024-02-02,Burglary,South District,Forced entry through front door. electronics and cash were stolen. No alarm system triggered.,0
+CR-2019-10081,2024-04-26,Theft,Downtown,Suspect took victim's identity documents when victim was not looking at sidewalk.,0
+CR-2018-10082,2025-01-23,Theft,Shopping Mall,Unknown suspect stole purse from victim's bus stop. No surveillance footage available.,0
+CR-2019-10083,2023-10-28,Theft,Shopping Mall,Unknown suspect stole phone from victim's library. No surveillance footage available.,0
+CR-2018-10084,2024-03-20,Fraud,East District,Victim reported unauthorized transactions totaling $50000 on their credit card.,0
+CR-2020-10085,2022-09-17,Burglary,Central Park,Forced entry through garage door. personal documents and valuables were stolen. No alarm system triggered.,0
+CR-2018-10086,2025-04-13,Theft,North District,Victim reported purse stolen from office. No witnesses present.,0
+CR-2021-10087,2023-07-13,Assault,Downtown,Unprovoked attack by unknown suspect left victim with minor cuts and bruises. Witnesses described suspect as medium-built female with distinctive tattoos.,1
+CR-2022-10088,2023-10-19,Burglary,South District,Home invasion occurred while residents were away. basement window was damaged. jewelry and watches missing.,0
+CR-2022-10089,2022-05-09,Theft,University Campus,Unknown suspect stole identity documents from victim's library. No surveillance footage available.,0
+CR-2021-10090,2024-06-26,Burglary,Downtown,Forced entry through front door. jewelry and watches were stolen. No alarm system triggered.,1
+CR-2020-10091,2023-07-02,Assault,East District,Domestic dispute escalated to physical violence resulting in minor cuts and bruises to victim.,1
+CR-2022-10092,2023-09-14,Fraud,University Campus,Victim was deceived into transferring $2500 to fraudulent investment scheme.,0
+CR-2019-10093,2023-08-26,Harassment,West District,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2021-10094,2024-03-06,Fraud,Downtown,Victim reported unauthorized transactions totaling $1200 on their credit card.,0
+CR-2022-10095,2024-03-07,Robbery,West District,Victim was approached by 1 suspects who took jewelry by force.,1
+CR-2018-10096,2025-03-18,Theft,Downtown,Victim's phone was taken while they were exercising. No suspects identified.,0
+CR-2019-10097,2023-08-28,Fraud,North District,Victim was deceived into transferring $500 to fraudulent investment scheme.,0
+CR-2019-10098,2024-05-31,Burglary,West District,Suspect broke into residence via basement window and took jewelry and watches. No witnesses.,1
+CR-2019-10099,2022-08-09,Burglary,Downtown,Forced entry through balcony door. electronics and cash were stolen. No alarm system triggered.,0
+CR-2022-10100,2023-06-03,Theft,South District,Victim's vehicle was taken while they were walking. No suspects identified.,0
+CR-2022-10101,2024-05-16,Fraud,South District,"Suspect used victim's identity to open rental accounts, causing financial damage of $2500.",0
+CR-2020-10102,2024-12-19,Burglary,East District,Forced entry through garage door. jewelry and watches were stolen. No alarm system triggered.,1
+CR-2022-10103,2023-01-20,Vandalism,Downtown,"Public playground equipment was destroyed, causing $1742 in damages. No witnesses.",0
+CR-2018-10104,2022-06-17,Assault,South District,Domestic dispute escalated to physical violence resulting in facial bruising to victim.,0
+CR-2022-10105,2024-03-15,Theft,Downtown,Suspect took victim's credit cards when victim was not looking at store.,0
+CR-2022-10106,2022-07-01,Burglary,University Campus,Suspect broke into residence via basement window and took electronics and jewelry. No witnesses.,0
+CR-2021-10107,2024-08-14,Assault,Downtown,Physical altercation between victim and known suspect resulted in black eye.,1
+CR-2022-10108,2023-05-17,Burglary,West District,Forced entry through side entrance. personal documents and valuables were stolen. No alarm system triggered.,0
+CR-2021-10109,2023-11-06,Theft,Shopping Mall,Victim's identity documents was taken while they were shopping. No suspects identified.,0
+CR-2019-10110,2024-11-06,Other,Downtown,"Suspicious activity reported near sidewalk, investigation ongoing.",0
+CR-2020-10111,2024-04-18,Burglary,Downtown,Suspect broke into residence via side entrance and took electronics and jewelry. No witnesses.,1
+CR-2021-10112,2025-02-12,Vandalism,East District,Property damaged by graffiti depicting racial slurs. Estimated repair cost: $989.,0
+CR-2022-10113,2022-10-03,Burglary,Shopping Mall,Business broken into overnight. basement window showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2019-10114,2022-05-15,Theft,Transit Station,Victim reported cash stolen from parking lot. No witnesses present.,0
+CR-2022-10115,2023-08-29,Theft,Shopping Mall,Unknown suspect stole cash from victim's public restroom. No surveillance footage available.,0
+CR-2022-10116,2025-04-14,Vandalism,South District,"Public street sign was destroyed, causing $1836 in damages. No witnesses.",0
+CR-2021-10117,2022-09-30,Assault,Shopping Mall,Unprovoked attack by unknown suspect left victim with black eye. Witnesses described suspect as person wearing mask and gloves.,0
+CR-2020-10118,2022-10-06,Theft,South District,Suspect took victim's laptop when victim was not looking at gym.,0
+CR-2019-10119,2023-08-05,Vandalism,Industrial Area,Vehicle's mirrors was deliberately damaged while parked at gym.,0
+CR-2018-10120,2023-05-08,Fraud,University Campus,Victim was deceived into transferring $5000 to fraudulent investment scheme.,0
+CR-2021-10121,2024-07-18,Fraud,South District,Victim was deceived into transferring $25000 to fraudulent investment scheme.,1
+CR-2019-10122,2024-03-01,Other,Downtown,Violation of restraining order when suspect approached protected person.,0
+CR-2022-10123,2022-07-05,Fraud,Transit Station,"Business reported accounting discrepancies amounting to $2500, suspected internal fraud.",0
+CR-2022-10124,2022-06-02,Drug Offense,West District,Suspect observed selling prescription pills near park bench.,0
+CR-2018-10125,2024-02-01,Vandalism,Shopping Mall,"Public bus shelter was destroyed, causing $1776 in damages. No witnesses.",0
+CR-2019-10126,2024-04-21,Theft,South District,Suspect took victim's wallet when victim was not looking at parking lot.,0
+CR-2021-10127,2023-04-24,Burglary,Downtown,Business broken into overnight. front door showed signs of forced entry. artwork and antiques reported missing.,0
+CR-2019-10128,2024-03-14,Theft,North District,Victim's vehicle was taken while they were distracted by phone. No suspects identified.,0
+CR-2022-10129,2022-05-27,Burglary,South District,Business broken into overnight. skylight showed signs of forced entry. cash and electronics reported missing.,0
+CR-2018-10130,2024-10-31,Assault,East District,Physical altercation between victim and known suspect resulted in facial bruising.,1
+CR-2022-10131,2024-10-11,Other,Industrial Area,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2019-10132,2024-09-15,Vandalism,East District,Business storefront windows broken with spray paint. Surveillance camera captured incident.,0
+CR-2019-10133,2022-04-26,Other,Industrial Area,Violation of restraining order when suspect approached protected person.,0
+CR-2022-10134,2025-02-08,Theft,South District,Unknown suspect stole credit cards from victim's park bench. No surveillance footage available.,0
+CR-2018-10135,2022-09-09,Other,Downtown,Violation of restraining order when suspect approached protected person.,0
+CR-2022-10136,2022-06-18,Burglary,Industrial Area,Business broken into overnight. pet door showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2018-10137,2022-07-30,Assault,North District,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,0
+CR-2021-10138,2024-03-25,Other,Transit Station,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10139,2025-02-26,Vandalism,University Campus,Business storefront windows broken with skateboard. Surveillance camera captured incident.,0
+CR-2019-10140,2022-07-08,Theft,South District,Unknown suspect stole identity documents from victim's public restroom. No surveillance footage available.,0
+CR-2018-10141,2022-06-06,Burglary,North District,Suspect broke into residence via basement window and took artwork and antiques. No witnesses.,0
+CR-2018-10142,2024-09-13,Vandalism,Downtown,Vehicle's tires was deliberately damaged while parked at gym.,0
+CR-2019-10143,2022-12-22,Fraud,Central Park,"Business reported accounting discrepancies amounting to $15000, suspected internal fraud.",0
+CR-2020-10144,2023-01-09,Robbery,University Campus,Victim was approached by 2 suspects who took cash by force.,1
+CR-2020-10145,2023-05-22,Theft,Downtown,Victim's credit cards was taken while they were commuting. No suspects identified.,0
+CR-2022-10146,2024-08-16,Drug Offense,Central Park,Suspect observed selling hallucinogens near gym.,0
+CR-2021-10147,2024-04-23,Burglary,East District,Business broken into overnight. basement window showed signs of forced entry. artwork and antiques reported missing.,1
+CR-2020-10148,2023-06-25,Kidnapping,North District,Victim forced into vehicle by 2 unknown suspects at gym.,1
+CR-2018-10149,2024-12-25,Other,North District,Violation of restraining order when suspect approached protected person.,0
+CR-2019-10150,2022-07-06,Other,Downtown,Violation of restraining order when suspect approached protected person.,0
+CR-2018-10151,2024-06-09,Burglary,South District,Business broken into overnight. garage door showed signs of forced entry. artwork and antiques reported missing.,1
+CR-2019-10152,2022-06-08,Burglary,North District,Suspect broke into residence via rear window and took artwork and antiques. No witnesses.,0
+CR-2020-10153,2022-08-05,Theft,Downtown,Victim reported purse stolen from gym. No witnesses present.,0
+CR-2020-10154,2024-10-02,Theft,North District,Victim's phone was taken while they were exercising. No suspects identified.,0
+CR-2020-10155,2024-02-12,Drug Offense,Downtown,Search warrant execution revealed methamphetamine and paraphernalia in suspect's residence.,0
+CR-2019-10156,2025-03-26,Theft,Downtown,Victim's jewelry was taken while they were distracted by phone. No suspects identified.,0
+CR-2021-10157,2024-02-27,Theft,Downtown,Unknown suspect stole cash from victim's sidewalk. No surveillance footage available.,0
+CR-2018-10158,2024-01-21,Assault,North District,Domestic dispute escalated to physical violence resulting in facial bruising to victim.,1
+CR-2019-10159,2024-06-18,Robbery,West District,Suspect threatened victim with handgun before taking purse.,1
+CR-2020-10160,2024-07-25,Burglary,Downtown,Forced entry through basement window. cash and electronics were stolen. No alarm system triggered.,1
+CR-2021-10161,2022-04-24,Vandalism,Downtown,Property damaged by graffiti depicting racial slurs. Estimated repair cost: $412.,0
+CR-2019-10162,2022-05-14,Burglary,South District,Suspect broke into residence via pet door and took jewelry and watches. No witnesses.,0
+CR-2022-10163,2024-02-11,Theft,North District,Unknown suspect stole jewelry from victim's restaurant. No surveillance footage available.,0
+CR-2020-10164,2024-10-21,Assault,East District,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,1
+CR-2022-10165,2024-06-30,Fraud,North District,Victim reported unauthorized transactions totaling $7500 on their credit card.,1
+CR-2018-10166,2023-08-14,Theft,East District,Victim's laptop was taken while they were walking. No suspects identified.,0
+CR-2018-10167,2022-07-11,Burglary,Downtown,Forced entry through side entrance. jewelry and watches were stolen. No alarm system triggered.,0
+CR-2018-10168,2022-05-11,Drug Offense,Central Park,Suspect found in possession of hallucinogens during routine traffic stop.,0
+CR-2022-10169,2022-08-05,Fraud,West District,Victim reported unauthorized transactions totaling $10000 on their credit card.,0
+CR-2018-10170,2024-05-03,Theft,North District,Unknown suspect stole purse from victim's office. No surveillance footage available.,0
+CR-2021-10171,2023-02-25,Other,East District,"Suspicious activity reported near gym, investigation ongoing.",0
+CR-2018-10172,2024-02-07,Theft,South District,Victim's purse was taken while they were commuting. No suspects identified.,0
+CR-2021-10173,2024-08-06,Theft,Central Park,Victim's phone was taken while they were working. No suspects identified.,0
+CR-2018-10174,2024-05-14,Theft,Downtown,Unknown suspect stole vehicle from victim's office. No surveillance footage available.,0
+CR-2022-10175,2023-10-16,Other,Shopping Mall,Violation of restraining order when suspect approached protected person.,0
+CR-2021-10176,2022-06-30,Harassment,Central Park,Victim reported ongoing harassment by neighbor including noise disturbances.,0
+CR-2018-10177,2023-09-02,Vandalism,Industrial Area,Business storefront windows broken with skateboard. Surveillance camera captured incident.,0
+CR-2019-10178,2024-08-10,Fraud,South District,Victim reported unauthorized transactions totaling $25000 on their credit card.,1
+CR-2022-10179,2023-03-08,Other,West District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2021-10180,2022-11-27,Vandalism,East District,Vehicle's mirrors was deliberately damaged while parked at store.,0
+CR-2018-10181,2022-07-15,Vandalism,Downtown,Property damaged by graffiti depicting racial slurs. Estimated repair cost: $491.,0
+CR-2020-10182,2024-08-08,Fraud,Downtown,"Suspect used victim's identity to open investment accounts, causing financial damage of $25000.",1
+CR-2019-10183,2022-04-26,Fraud,East District,"Business reported accounting discrepancies amounting to $500, suspected internal fraud.",0
+CR-2019-10184,2022-04-29,Drug Offense,Downtown,Suspect observed selling cocaine near gym.,0
+CR-2022-10185,2023-03-11,Vandalism,East District,Vehicle's paint was deliberately damaged while parked at library.,0
+CR-2020-10186,2023-02-28,Vandalism,South District,"Public street sign was destroyed, causing $1539 in damages. No witnesses.",0
+CR-2022-10187,2023-04-27,Other,North District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2020-10188,2023-09-11,Vandalism,East District,Vehicle's hood was deliberately damaged while parked at bus stop.,0
+CR-2022-10189,2024-09-05,Vandalism,Central Park,"Public bus shelter was destroyed, causing $1307 in damages. No witnesses.",0
+CR-2020-10190,2024-04-10,Theft,North District,Suspect took victim's jewelry when victim was not looking at restaurant.,0
+CR-2019-10191,2023-11-11,Burglary,Industrial Area,Forced entry through garage door. personal documents and valuables were stolen. No alarm system triggered.,0
+CR-2018-10192,2023-05-23,Robbery,South District,"Armed suspect demanded money from store clerk, escaped with $161.",1
+CR-2020-10193,2023-06-12,Fraud,South District,"Business reported accounting discrepancies amounting to $1200, suspected internal fraud.",0
+CR-2018-10194,2024-02-10,Burglary,South District,Home invasion occurred while residents were away. pet door was damaged. artwork and antiques missing.,0
+CR-2019-10195,2024-07-15,Kidnapping,West District,"Brief abduction during carjacking incident, victim released unharmed.",1
+CR-2020-10196,2022-10-31,Other,West District,"Suspicious activity reported near sidewalk, investigation ongoing.",0
+CR-2019-10197,2025-02-18,Harassment,South District,Online harassment campaign targeted victim with threats of violence.,1
+CR-2020-10198,2023-06-10,Other,Central Park,"Suspicious activity reported near park bench, investigation ongoing.",0
+CR-2022-10199,2025-01-07,Robbery,Downtown,"Armed suspect demanded money from store clerk, escaped with $360.",1
+CR-2021-10200,2023-12-05,Vandalism,South District,Property damaged by graffiti depicting political messages. Estimated repair cost: $342.,0
+CR-2019-10201,2024-08-28,Theft,East District,Victim's credit cards was taken while they were distracted by phone. No suspects identified.,0
+CR-2021-10202,2022-11-18,Fraud,East District,Victim was deceived into transferring $100000 to fraudulent investment scheme.,0
+CR-2022-10203,2022-06-02,Assault,Central Park,Victim sustained concussion after altercation with suspect at bus stop.,0
+CR-2020-10204,2022-07-20,Fraud,East District,Victim reported unauthorized transactions totaling $2500 on their credit card.,0
+CR-2019-10205,2022-06-24,Robbery,University Campus,Victim was approached by 1 suspects who took phone by force.,0
+CR-2019-10206,2023-02-12,Fraud,Shopping Mall,"Business reported accounting discrepancies amounting to $25000, suspected internal fraud.",0
+CR-2019-10207,2024-12-26,Burglary,West District,Home invasion occurred while residents were away. rear window was damaged. cash and electronics missing.,1
+CR-2020-10208,2025-01-14,Fraud,West District,Victim was deceived into transferring $7500 to fraudulent investment scheme.,1
+CR-2022-10209,2022-08-21,Theft,East District,Victim reported laptop stolen from sidewalk. No witnesses present.,0
+CR-2019-10210,2025-01-24,Theft,Downtown,Victim's purse was taken while they were walking. No suspects identified.,0
+CR-2018-10211,2024-06-03,Assault,Downtown,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,1
+CR-2022-10212,2023-06-10,Theft,Shopping Mall,Victim reported phone stolen from sidewalk. No witnesses present.,0
+CR-2020-10213,2024-11-07,Fraud,South District,"Business reported accounting discrepancies amounting to $1200, suspected internal fraud.",1
+CR-2022-10214,2022-11-04,Robbery,Downtown,Suspect threatened victim with implied weapon in pocket before taking bicycle.,1
+CR-2018-10215,2023-11-12,Assault,Industrial Area,Domestic dispute escalated to physical violence resulting in lacerations requiring stitches to victim.,1
+CR-2019-10216,2023-08-04,Vandalism,South District,Business storefront windows broken with hammer. Surveillance camera captured incident.,0
+CR-2020-10217,2024-11-26,Assault,Downtown,Victim sustained minor cuts and bruises after altercation with suspect at park bench.,1
+CR-2018-10218,2024-03-26,Theft,North District,Suspect took victim's credit cards when victim was not looking at office.,0
+CR-2022-10219,2022-06-18,Burglary,North District,Home invasion occurred while residents were away. garage door was damaged. electronics and cash missing.,0
+CR-2019-10220,2025-03-24,Theft,University Campus,Victim's credit cards was taken while they were talking with others. No suspects identified.,0
+CR-2018-10221,2022-09-11,Assault,Downtown,Unprovoked attack by unknown suspect left victim with black eye. Witnesses described suspect as young male in hooded sweatshirt.,0
+CR-2022-10222,2023-10-29,Burglary,North District,Forced entry through garage door. personal documents and valuables were stolen. No alarm system triggered.,0
+CR-2020-10223,2024-11-23,Homicide,North District,Victim discovered deceased in library with suspicious circumstances.,1
+CR-2022-10224,2023-06-19,Burglary,Industrial Area,Home invasion occurred while residents were away. skylight was damaged. electronics and cash missing.,0
+CR-2020-10225,2022-05-04,Burglary,West District,Forced entry through pet door. electronics and jewelry were stolen. No alarm system triggered.,0
+CR-2019-10226,2022-10-27,Fraud,South District,Victim was deceived into transferring $7500 to fraudulent investment scheme.,0
+CR-2020-10227,2024-07-25,Theft,North District,Victim reported cash stolen from office. No witnesses present.,0
+CR-2020-10228,2024-06-24,Burglary,Shopping Mall,Business broken into overnight. skylight showed signs of forced entry. electronics and jewelry reported missing.,1
+CR-2019-10229,2022-07-12,Other,Industrial Area,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10230,2025-02-11,Theft,North District,Unknown suspect stole vehicle from victim's library. No surveillance footage available.,0
+CR-2020-10231,2023-03-10,Theft,Central Park,Victim reported laptop stolen from sidewalk. No witnesses present.,0
+CR-2020-10232,2025-03-26,Drug Offense,North District,Suspect observed selling heroin near library.,0
+CR-2019-10233,2022-07-21,Other,East District,"Suspicious activity reported near parking lot, investigation ongoing.",0
+CR-2020-10234,2023-07-12,Other,Downtown,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2019-10235,2022-04-23,Drug Offense,West District,Suspect observed selling prescription pills near parking lot.,0
+CR-2022-10236,2022-09-10,Theft,Industrial Area,Victim's purse was taken while they were dining. No suspects identified.,0
+CR-2022-10237,2024-03-16,Vandalism,Shopping Mall,Business storefront windows broken with crowbar. Surveillance camera captured incident.,0
+CR-2022-10238,2024-05-01,Robbery,South District,"Bank robbery involving suspect with pepper spray, escaped with undisclosed amount.",1
+CR-2021-10239,2023-01-02,Burglary,Central Park,Business broken into overnight. garage door showed signs of forced entry. artwork and antiques reported missing.,0
+CR-2018-10240,2025-03-28,Burglary,University Campus,Suspect broke into residence via garage door and took electronics and jewelry. No witnesses.,1
+CR-2021-10241,2023-11-30,Harassment,South District,Victim reported ongoing harassment by neighbor including false complaints to authorities.,0
+CR-2018-10242,2023-09-24,Vandalism,West District,Property damaged by graffiti depicting obscene images. Estimated repair cost: $1586.,0
+CR-2018-10243,2023-08-23,Other,East District,Violation of restraining order when suspect approached protected person.,0
+CR-2022-10244,2023-12-17,Burglary,Downtown,Business broken into overnight. balcony door showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2019-10245,2022-08-22,Theft,East District,Victim's credit cards was taken while they were walking. No suspects identified.,0
+CR-2019-10246,2025-02-20,Assault,South District,Physical altercation between victim and known suspect resulted in black eye.,1
+CR-2021-10247,2023-03-24,Theft,Shopping Mall,Victim reported jewelry stolen from library. No witnesses present.,0
+CR-2020-10248,2022-10-01,Burglary,West District,Business broken into overnight. garage door showed signs of forced entry. artwork and antiques reported missing.,0
+CR-2022-10249,2023-07-15,Fraud,Industrial Area,Victim reported unauthorized transactions totaling $2500 on their credit card.,0
+CR-2022-10250,2024-03-18,Assault,Downtown,Victim sustained defensive wounds on hands after altercation with suspect at public restroom.,1
+CR-2021-10251,2024-07-13,Theft,Central Park,Victim's wallet was taken while they were distracted by phone. No suspects identified.,0
+CR-2022-10252,2022-09-12,Harassment,South District,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2021-10253,2022-10-20,Burglary,East District,Business broken into overnight. front door showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2019-10254,2022-06-10,Drug Offense,Shopping Mall,Search warrant execution revealed methamphetamine and paraphernalia in suspect's residence.,0
+CR-2022-10255,2024-05-06,Burglary,East District,Forced entry through front door. cash and electronics were stolen. No alarm system triggered.,1
+CR-2020-10256,2024-11-29,Other,Downtown,Trespassing incident at closed business premises after hours.,0
+CR-2018-10257,2022-09-17,Assault,North District,Victim sustained black eye after altercation with suspect at public restroom.,0
+CR-2018-10258,2022-06-16,Drug Offense,South District,Search warrant execution revealed cocaine and paraphernalia in suspect's residence.,0
+CR-2020-10259,2022-08-25,Theft,Downtown,Victim reported wallet stolen from store. No witnesses present.,0
+CR-2020-10260,2022-07-27,Fraud,South District,Victim was deceived into transferring $10000 to fraudulent investment scheme.,0
+CR-2021-10261,2024-07-11,Theft,University Campus,Victim's phone was taken while they were distracted by phone. No suspects identified.,0
+CR-2018-10262,2022-04-28,Fraud,Industrial Area,"Suspect used victim's identity to open loan accounts, causing financial damage of $2500.",0
+CR-2022-10263,2023-04-25,Drug Offense,Transit Station,Suspect found in possession of prescription pills during routine traffic stop.,0
+CR-2019-10264,2023-08-18,Other,Downtown,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2019-10265,2025-02-19,Other,Downtown,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10266,2022-12-22,Burglary,Downtown,Business broken into overnight. side entrance showed signs of forced entry. artwork and antiques reported missing.,0
+CR-2018-10267,2024-09-15,Other,University Campus,Trespassing incident at closed business premises after hours.,0
+CR-2022-10268,2023-12-01,Vandalism,Downtown,Business storefront windows broken with skateboard. Surveillance camera captured incident.,0
+CR-2020-10269,2023-05-23,Fraud,West District,Victim was deceived into transferring $15000 to fraudulent investment scheme.,0
+CR-2020-10270,2023-12-27,Theft,Downtown,Victim's bicycle was taken while they were distracted by phone. No suspects identified.,0
+CR-2022-10271,2024-11-07,Assault,South District,Domestic dispute escalated to physical violence resulting in lacerations requiring stitches to victim.,1
+CR-2018-10272,2024-12-23,Burglary,West District,Home invasion occurred while residents were away. side entrance was damaged. jewelry and watches missing.,1
+CR-2022-10273,2024-09-26,Assault,South District,Unprovoked attack by unknown suspect left victim with facial bruising. Witnesses described suspect as young male in hooded sweatshirt.,1
+CR-2019-10274,2023-06-04,Theft,Downtown,Victim reported vehicle stolen from parking lot. No witnesses present.,0
+CR-2019-10275,2025-03-14,Theft,Downtown,Unknown suspect stole laptop from victim's park bench. No surveillance footage available.,0
+CR-2018-10276,2023-08-06,Theft,South District,Suspect took victim's laptop when victim was not looking at park bench.,0
+CR-2021-10277,2023-04-28,Vandalism,South District,Vehicle's windows was deliberately damaged while parked at sidewalk.,0
+CR-2021-10278,2023-05-10,Vandalism,Downtown,"Public trash bins was destroyed, causing $369 in damages. No witnesses.",0
+CR-2022-10279,2023-04-27,Burglary,North District,Suspect broke into residence via basement window and took cash and electronics. No witnesses.,0
+CR-2022-10280,2023-06-22,Theft,Transit Station,Unknown suspect stole identity documents from victim's office. No surveillance footage available.,0
+CR-2018-10281,2023-05-20,Burglary,West District,Suspect broke into residence via side entrance and took artwork and antiques. No witnesses.,0
+CR-2021-10282,2022-10-20,Other,Central Park,Trespassing incident at closed business premises after hours.,0
+CR-2020-10283,2024-03-26,Other,Industrial Area,"Suspicious activity reported near library, investigation ongoing.",0
+CR-2020-10284,2025-04-06,Fraud,Downtown,Victim reported unauthorized transactions totaling $2500 on their credit card.,1
+CR-2021-10285,2024-05-27,Theft,University Campus,Victim's identity documents was taken while they were dining. No suspects identified.,0
+CR-2022-10286,2022-11-28,Burglary,Downtown,Business broken into overnight. rear window showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2019-10287,2022-12-31,Robbery,Central Park,"Armed suspect demanded money from store clerk, escaped with $981.",1
+CR-2018-10288,2025-02-23,Other,Downtown,Trespassing incident at closed business premises after hours.,0
+CR-2019-10289,2023-06-09,Vandalism,West District,Vehicle's paint was deliberately damaged while parked at park bench.,0
+CR-2020-10290,2022-09-23,Assault,West District,Domestic dispute escalated to physical violence resulting in minor cuts and bruises to victim.,0
+CR-2022-10291,2023-03-11,Homicide,Industrial Area,Domestic dispute escalated resulting in fatal gunshot wounds to victim.,1
+CR-2020-10292,2024-11-23,Burglary,Downtown,Home invasion occurred while residents were away. pet door was damaged. electronics and jewelry missing.,1
+CR-2018-10293,2024-10-23,Harassment,Downtown,Victim received 10 threatening messages from known suspect over 5 months.,0
+CR-2018-10294,2024-11-26,Burglary,North District,Business broken into overnight. balcony door showed signs of forced entry. jewelry and watches reported missing.,1
+CR-2020-10295,2024-10-16,Theft,North District,Victim's vehicle was taken while they were distracted by phone. No suspects identified.,0
+CR-2022-10296,2024-06-20,Theft,Industrial Area,Victim reported credit cards stolen from park bench. No witnesses present.,0
+CR-2022-10297,2022-11-26,Assault,Shopping Mall,Unprovoked attack by unknown suspect left victim with facial bruising. Witnesses described suspect as medium-built female with distinctive tattoos.,0
+CR-2020-10298,2025-03-15,Drug Offense,East District,Search warrant execution revealed heroin and paraphernalia in suspect's residence.,0
+CR-2022-10299,2022-11-18,Robbery,West District,Suspect threatened victim with broken bottle before taking jewelry.,1
+CR-2018-10300,2023-11-08,Harassment,West District,Victim received 15 threatening messages from known suspect over 3 months.,0
+CR-2020-10301,2023-10-25,Drug Offense,West District,Search warrant execution revealed marijuana and paraphernalia in suspect's residence.,0
+CR-2020-10302,2023-06-12,Theft,Industrial Area,Victim reported wallet stolen from store. No witnesses present.,0
+CR-2022-10303,2024-07-20,Assault,Industrial Area,Physical altercation between victim and known suspect resulted in concussion.,1
+CR-2019-10304,2024-02-17,Burglary,Central Park,Suspect broke into residence via basement window and took cash and electronics. No witnesses.,0
+CR-2019-10305,2023-04-07,Fraud,Central Park,Victim was deceived into transferring $2500 to fraudulent investment scheme.,0
+CR-2021-10306,2023-02-05,Theft,Downtown,Unknown suspect stole phone from victim's restaurant. No surveillance footage available.,0
+CR-2020-10307,2022-05-03,Theft,South District,Suspect took victim's purse when victim was not looking at parking lot.,0
+CR-2022-10308,2024-02-20,Theft,North District,Victim reported jewelry stolen from bus stop. No witnesses present.,0
+CR-2019-10309,2025-01-04,Burglary,West District,Forced entry through garage door. personal documents and valuables were stolen. No alarm system triggered.,1
+CR-2022-10310,2024-12-30,Robbery,Downtown,"Armed suspect demanded money from store clerk, escaped with $309.",1
+CR-2021-10311,2024-04-16,Theft,Central Park,Victim reported credit cards stolen from library. No witnesses present.,0
+CR-2018-10312,2024-09-18,Burglary,West District,Forced entry through pet door. electronics and cash were stolen. No alarm system triggered.,1
+CR-2020-10313,2022-11-12,Harassment,University Campus,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2022-10314,2024-04-01,Vandalism,Downtown,"Public memorial was destroyed, causing $1417 in damages. No witnesses.",0
+CR-2022-10315,2023-07-20,Theft,Downtown,Victim's purse was taken while they were talking with others. No suspects identified.,0
+CR-2020-10316,2023-07-19,Drug Offense,South District,Suspect found in possession of marijuana during routine traffic stop.,0
+CR-2019-10317,2023-09-14,Assault,South District,Physical altercation between victim and known suspect resulted in lacerations requiring stitches.,1
+CR-2022-10318,2022-09-20,Burglary,Industrial Area,Home invasion occurred while residents were away. skylight was damaged. electronics and cash missing.,0
+CR-2021-10319,2025-02-25,Theft,Industrial Area,Unknown suspect stole credit cards from victim's office. No surveillance footage available.,0
+CR-2021-10320,2024-12-30,Other,South District,"Suspicious activity reported near public restroom, investigation ongoing.",0
+CR-2020-10321,2022-07-09,Burglary,North District,Suspect broke into residence via skylight and took artwork and antiques. No witnesses.,0
+CR-2020-10322,2023-11-07,Homicide,North District,Domestic dispute escalated resulting in fatal strangulation to victim.,1
+CR-2022-10323,2025-01-19,Drug Offense,South District,Search warrant execution revealed heroin and paraphernalia in suspect's residence.,0
+CR-2021-10324,2022-11-10,Fraud,Downtown,Victim reported unauthorized transactions totaling $10000 on their credit card.,0
+CR-2018-10325,2023-09-18,Robbery,Industrial Area,Suspect threatened victim with baseball bat before taking jewelry.,1
+CR-2021-10326,2022-11-01,Drug Offense,Downtown,Search warrant execution revealed marijuana and paraphernalia in suspect's residence.,0
+CR-2022-10327,2023-04-29,Fraud,Central Park,Victim reported unauthorized transactions totaling $1200 on their credit card.,0
+CR-2018-10328,2024-04-19,Theft,Downtown,Victim reported jewelry stolen from restaurant. No witnesses present.,0
+CR-2021-10329,2023-09-19,Theft,South District,Unknown suspect stole purse from victim's gym. No surveillance footage available.,0
+CR-2022-10330,2022-08-11,Fraud,South District,"Business reported accounting discrepancies amounting to $500, suspected internal fraud.",0
+CR-2022-10331,2024-04-06,Theft,Downtown,Unknown suspect stole jewelry from victim's public restroom. No surveillance footage available.,0
+CR-2019-10332,2023-12-14,Vandalism,West District,Vehicle's doors was deliberately damaged while parked at public restroom.,0
+CR-2018-10333,2024-06-25,Other,Shopping Mall,"Suspicious activity reported near sidewalk, investigation ongoing.",0
+CR-2020-10334,2022-11-16,Vandalism,Downtown,Vehicle's windows was deliberately damaged while parked at park bench.,0
+CR-2021-10335,2024-09-21,Fraud,Downtown,"Suspect used victim's identity to open mobile phone accounts, causing financial damage of $7500.",1
+CR-2021-10336,2024-02-18,Fraud,Downtown,Victim was deceived into transferring $10000 to fraudulent investment scheme.,0
+CR-2021-10337,2022-04-18,Fraud,Industrial Area,"Suspect used victim's identity to open rental accounts, causing financial damage of $2500.",0
+CR-2018-10338,2023-11-26,Theft,South District,Victim reported phone stolen from parking lot. No witnesses present.,0
+CR-2019-10339,2024-09-03,Theft,West District,Suspect took victim's cash when victim was not looking at gym.,0
+CR-2019-10340,2022-07-31,Theft,Downtown,Unknown suspect stole phone from victim's store. No surveillance footage available.,0
+CR-2020-10341,2023-02-27,Vandalism,Downtown,"Public playground equipment was destroyed, causing $1321 in damages. No witnesses.",0
+CR-2018-10342,2022-11-25,Fraud,West District,Victim reported unauthorized transactions totaling $1200 on their credit card.,0
+CR-2019-10343,2022-08-05,Robbery,Downtown,"Bank robbery involving suspect with implied weapon in pocket, escaped with undisclosed amount.",0
+CR-2021-10344,2022-11-10,Fraud,Central Park,"Business reported accounting discrepancies amounting to $7500, suspected internal fraud.",0
+CR-2019-10345,2024-09-27,Drug Offense,East District,Suspect found in possession of methamphetamine during routine traffic stop.,0
+CR-2019-10346,2022-04-30,Theft,Downtown,Victim reported bicycle stolen from park bench. No witnesses present.,0
+CR-2021-10347,2024-10-11,Assault,East District,Unprovoked attack by unknown suspect left victim with facial bruising. Witnesses described suspect as older male with facial hair.,1
+CR-2020-10348,2024-05-05,Burglary,Downtown,Forced entry through rear window. cash and electronics were stolen. No alarm system triggered.,1
+CR-2022-10349,2024-03-11,Theft,Downtown,Unknown suspect stole laptop from victim's restaurant. No surveillance footage available.,0
+CR-2019-10350,2024-02-07,Burglary,East District,Home invasion occurred while residents were away. balcony door was damaged. electronics and jewelry missing.,0
+CR-2020-10351,2024-10-26,Theft,West District,Victim reported credit cards stolen from gym. No witnesses present.,0
+CR-2022-10352,2023-04-04,Harassment,Downtown,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2022-10353,2022-09-22,Assault,Industrial Area,Unprovoked attack by unknown suspect left victim with lacerations requiring stitches. Witnesses described suspect as tall male in dark clothing.,0
+CR-2022-10354,2023-09-14,Vandalism,Central Park,Business storefront windows broken with brick. Surveillance camera captured incident.,0
+CR-2021-10355,2022-09-15,Fraud,East District,"Business reported accounting discrepancies amounting to $7500, suspected internal fraud.",0
+CR-2018-10356,2023-06-10,Theft,South District,Victim's wallet was taken while they were working. No suspects identified.,0
+CR-2021-10357,2023-11-15,Fraud,Central Park,"Business reported accounting discrepancies amounting to $10000, suspected internal fraud.",0
+CR-2019-10358,2024-05-10,Fraud,Shopping Mall,"Business reported accounting discrepancies amounting to $1200, suspected internal fraud.",0
+CR-2021-10359,2023-09-28,Drug Offense,West District,Search warrant execution revealed prescription pills and paraphernalia in suspect's residence.,0
+CR-2020-10360,2024-06-18,Vandalism,Shopping Mall,Property damaged by graffiti depicting tags and signatures. Estimated repair cost: $1882.,0
+CR-2019-10361,2024-11-11,Burglary,East District,Suspect broke into residence via front door and took electronics and cash. No witnesses.,1
+CR-2022-10362,2024-07-31,Theft,South District,Victim reported identity documents stolen from office. No witnesses present.,0
+CR-2021-10363,2023-05-02,Assault,East District,Unprovoked attack by unknown suspect left victim with fractured ribs. Witnesses described suspect as medium-built female with distinctive tattoos.,1
+CR-2018-10364,2022-08-24,Theft,West District,Victim reported phone stolen from sidewalk. No witnesses present.,0
+CR-2018-10365,2022-05-14,Burglary,West District,Suspect broke into residence via garage door and took jewelry and watches. No witnesses.,0
+CR-2018-10366,2023-07-20,Theft,University Campus,Victim reported phone stolen from library. No witnesses present.,0
+CR-2020-10367,2025-02-13,Theft,Downtown,Victim's vehicle was taken while they were commuting. No suspects identified.,0
+CR-2019-10368,2024-08-07,Robbery,South District,Suspect threatened victim with implied weapon in pocket before taking purse.,1
+CR-2021-10369,2024-12-13,Vandalism,Downtown,Business storefront windows broken with skateboard. Surveillance camera captured incident.,0
+CR-2021-10370,2024-03-03,Drug Offense,South District,Suspect found in possession of methamphetamine during routine traffic stop.,0
+CR-2018-10371,2022-09-19,Harassment,East District,Online harassment campaign targeted victim with manipulated images.,0
+CR-2020-10372,2024-11-28,Theft,Transit Station,Victim reported purse stolen from park bench. No witnesses present.,0
+CR-2018-10373,2023-09-09,Theft,Downtown,Victim's vehicle was taken while they were shopping. No suspects identified.,0
+CR-2018-10374,2022-08-13,Theft,Downtown,Victim's vehicle was taken while they were commuting. No suspects identified.,0
+CR-2020-10375,2024-07-31,Theft,East District,Victim's identity documents was taken while they were shopping. No suspects identified.,0
+CR-2021-10376,2023-08-19,Burglary,South District,Business broken into overnight. front door showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2020-10377,2022-08-20,Other,West District,"Suspicious activity reported near office, investigation ongoing.",0
+CR-2018-10378,2025-03-14,Assault,East District,Physical altercation between victim and known suspect resulted in facial bruising.,1
+CR-2019-10379,2024-10-21,Drug Offense,Downtown,Search warrant execution revealed prescription pills and paraphernalia in suspect's residence.,0
+CR-2022-10380,2023-02-18,Vandalism,North District,Vehicle's mirrors was deliberately damaged while parked at gym.,0
+CR-2019-10381,2022-08-23,Vandalism,Downtown,Property damaged by graffiti depicting anarchist symbols. Estimated repair cost: $1425.,0
+CR-2022-10382,2022-07-11,Burglary,West District,Business broken into overnight. side entrance showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2019-10383,2023-06-17,Drug Offense,South District,Anonymous tip led to discovery of methamphetamine manufacturing operation.,0
+CR-2018-10384,2023-02-13,Fraud,Downtown,"Suspect used victim's identity to open mobile phone accounts, causing financial damage of $10000.",0
+CR-2018-10385,2024-07-08,Other,East District,Violation of restraining order when suspect approached protected person.,0
+CR-2022-10386,2025-04-13,Fraud,North District,Victim reported unauthorized transactions totaling $7500 on their credit card.,1
+CR-2019-10387,2025-01-20,Fraud,North District,Victim was deceived into transferring $2500 to fraudulent investment scheme.,1
+CR-2018-10388,2024-03-04,Vandalism,Downtown,Business storefront windows broken with spray paint. Surveillance camera captured incident.,0
+CR-2018-10389,2024-12-12,Harassment,South District,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2021-10390,2022-05-05,Robbery,Central Park,Victim was approached by 1 suspects who took bicycle by force.,0
+CR-2018-10391,2024-08-14,Harassment,South District,Victim received 13 threatening messages from known suspect over 5 months.,0
+CR-2018-10392,2024-04-10,Burglary,South District,Business broken into overnight. garage door showed signs of forced entry. cash and electronics reported missing.,0
+CR-2022-10393,2024-07-22,Fraud,East District,"Suspect used victim's identity to open loan accounts, causing financial damage of $100000.",1
+CR-2018-10394,2023-02-01,Theft,Downtown,Victim's wallet was taken while they were commuting. No suspects identified.,0
+CR-2020-10395,2024-12-09,Drug Offense,East District,Anonymous tip led to discovery of heroin manufacturing operation.,0
+CR-2018-10396,2025-02-06,Fraud,University Campus,Victim was deceived into transferring $25000 to fraudulent investment scheme.,1
+CR-2019-10397,2023-07-14,Other,Central Park,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2018-10398,2022-04-28,Theft,East District,Victim's laptop was taken while they were talking with others. No suspects identified.,0
+CR-2021-10399,2024-06-07,Burglary,East District,Business broken into overnight. side entrance showed signs of forced entry. artwork and antiques reported missing.,1
+CR-2019-10400,2023-04-15,Other,Downtown,Violation of restraining order when suspect approached protected person.,0
+CR-2020-10401,2025-01-25,Homicide,Downtown,Domestic dispute escalated resulting in fatal poisoning to victim.,1
+CR-2018-10402,2024-03-31,Burglary,Downtown,Home invasion occurred while residents were away. rear window was damaged. jewelry and watches missing.,0
+CR-2022-10403,2023-07-30,Theft,Downtown,Victim's jewelry was taken while they were dining. No suspects identified.,0
+CR-2021-10404,2025-01-18,Fraud,West District,Victim reported unauthorized transactions totaling $7500 on their credit card.,1
+CR-2022-10405,2024-05-06,Fraud,East District,"Suspect used victim's identity to open investment accounts, causing financial damage of $7500.",0
+CR-2019-10406,2024-02-15,Vandalism,North District,Vehicle's doors was deliberately damaged while parked at library.,0
+CR-2021-10407,2022-07-15,Theft,Downtown,Victim's wallet was taken while they were commuting. No suspects identified.,0
+CR-2021-10408,2025-03-14,Fraud,West District,"Suspect used victim's identity to open bank accounts, causing financial damage of $15000.",1
+CR-2018-10409,2023-07-05,Burglary,University Campus,Home invasion occurred while residents were away. basement window was damaged. electronics and jewelry missing.,0
+CR-2021-10410,2023-10-27,Other,East District,Trespassing incident at closed business premises after hours.,0
+CR-2022-10411,2024-04-11,Fraud,Central Park,Victim was deceived into transferring $2500 to fraudulent investment scheme.,0
+CR-2019-10412,2024-12-25,Assault,Industrial Area,Victim sustained minor cuts and bruises after altercation with suspect at library.,1
+CR-2018-10413,2024-08-22,Robbery,North District,"Bank robbery involving suspect with knife, escaped with undisclosed amount.",1
+CR-2020-10414,2025-04-04,Drug Offense,Central Park,Suspect found in possession of methamphetamine during routine traffic stop.,0
+CR-2020-10415,2025-01-03,Assault,Downtown,Physical altercation between victim and known suspect resulted in black eye.,1
+CR-2018-10416,2023-08-12,Harassment,South District,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2022-10417,2024-02-07,Theft,West District,Victim's vehicle was taken while they were dining. No suspects identified.,0
+CR-2021-10418,2024-01-26,Burglary,West District,Forced entry through pet door. electronics and cash were stolen. No alarm system triggered.,0
+CR-2018-10419,2024-10-23,Other,Downtown,"Suspicious activity reported near office, investigation ongoing.",0
+CR-2022-10420,2024-01-13,Vandalism,West District,Vehicle's mirrors was deliberately damaged while parked at gym.,0
+CR-2021-10421,2023-02-12,Theft,West District,Suspect took victim's vehicle when victim was not looking at gym.,0
+CR-2019-10422,2023-01-29,Burglary,Downtown,Forced entry through balcony door. electronics and jewelry were stolen. No alarm system triggered.,0
+CR-2022-10423,2023-04-04,Fraud,South District,Victim reported unauthorized transactions totaling $15000 on their credit card.,0
+CR-2018-10424,2025-04-14,Burglary,Downtown,Forced entry through skylight. personal documents and valuables were stolen. No alarm system triggered.,1
+CR-2018-10425,2024-07-22,Theft,Central Park,Unknown suspect stole wallet from victim's store. No surveillance footage available.,0
+CR-2020-10426,2022-09-23,Fraud,Industrial Area,Victim was deceived into transferring $5000 to fraudulent investment scheme.,0
+CR-2019-10427,2022-06-22,Fraud,North District,Victim was deceived into transferring $2500 to fraudulent investment scheme.,0
+CR-2020-10428,2023-03-24,Drug Offense,Transit Station,Suspect observed selling prescription pills near store.,0
+CR-2019-10429,2023-12-21,Fraud,West District,"Suspect used victim's identity to open investment accounts, causing financial damage of $25000.",0
+CR-2021-10430,2024-02-07,Fraud,University Campus,"Suspect used victim's identity to open bank accounts, causing financial damage of $2500.",0
+CR-2022-10431,2023-01-28,Vandalism,Downtown,Business storefront windows broken with rocks. Surveillance camera captured incident.,0
+CR-2019-10432,2023-07-06,Assault,Industrial Area,Unprovoked attack by unknown suspect left victim with minor cuts and bruises. Witnesses described suspect as older male with facial hair.,1
+CR-2021-10433,2024-02-02,Burglary,Transit Station,Business broken into overnight. side entrance showed signs of forced entry. electronics and jewelry reported missing.,0
+CR-2020-10434,2022-12-09,Theft,University Campus,Suspect took victim's bicycle when victim was not looking at store.,0
+CR-2022-10435,2023-04-15,Theft,West District,Unknown suspect stole bicycle from victim's public restroom. No surveillance footage available.,0
+CR-2021-10436,2023-05-27,Theft,Central Park,Victim's cash was taken while they were distracted by phone. No suspects identified.,0
+CR-2018-10437,2025-01-23,Robbery,Central Park,Suspect threatened victim with broken bottle before taking credit cards.,1
+CR-2019-10438,2023-09-07,Theft,North District,Unknown suspect stole purse from victim's gym. No surveillance footage available.,0
+CR-2019-10439,2024-05-04,Burglary,Downtown,Business broken into overnight. garage door showed signs of forced entry. electronics and cash reported missing.,1
+CR-2020-10440,2024-05-16,Fraud,North District,Victim was deceived into transferring $10000 to fraudulent investment scheme.,0
+CR-2021-10441,2023-02-21,Theft,Central Park,Victim reported jewelry stolen from sidewalk. No witnesses present.,0
+CR-2021-10442,2022-12-16,Theft,Shopping Mall,Victim's vehicle was taken while they were working. No suspects identified.,0
+CR-2019-10443,2024-02-23,Robbery,South District,"Bank robbery involving suspect with broken bottle, escaped with undisclosed amount.",1
+CR-2019-10444,2022-08-28,Theft,North District,Victim's bicycle was taken while they were dining. No suspects identified.,0
+CR-2018-10445,2023-05-20,Assault,Downtown,Domestic dispute escalated to physical violence resulting in fractured ribs to victim.,0
+CR-2019-10446,2024-11-02,Burglary,University Campus,Forced entry through garage door. electronics and cash were stolen. No alarm system triggered.,1
+CR-2019-10447,2024-06-17,Assault,North District,Domestic dispute escalated to physical violence resulting in facial bruising to victim.,1
+CR-2018-10448,2023-03-18,Vandalism,Downtown,Vehicle's paint was deliberately damaged while parked at gym.,0
+CR-2020-10449,2023-08-12,Burglary,Downtown,Business broken into overnight. balcony door showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2022-10450,2023-08-11,Theft,Downtown,Victim's purse was taken while they were working. No suspects identified.,0
+CR-2018-10451,2025-02-15,Other,South District,Trespassing incident at closed business premises after hours.,0
+CR-2022-10452,2023-10-11,Assault,South District,Unprovoked attack by unknown suspect left victim with minor cuts and bruises. Witnesses described suspect as tall male in dark clothing.,1
+CR-2021-10453,2023-07-07,Drug Offense,North District,Suspect found in possession of synthetic drugs during routine traffic stop.,0
+CR-2019-10454,2025-04-04,Burglary,South District,Business broken into overnight. skylight showed signs of forced entry. electronics and cash reported missing.,1
+CR-2022-10455,2024-06-02,Theft,South District,Victim reported bicycle stolen from sidewalk. No witnesses present.,0
+CR-2019-10456,2025-03-31,Burglary,South District,Suspect broke into residence via side entrance and took jewelry and watches. No witnesses.,1
+CR-2018-10457,2022-09-12,Theft,North District,Victim's laptop was taken while they were working. No suspects identified.,0
+CR-2020-10458,2023-01-04,Drug Offense,Downtown,Suspect found in possession of heroin during routine traffic stop.,0
+CR-2021-10459,2024-06-09,Theft,North District,Victim's purse was taken while they were commuting. No suspects identified.,0
+CR-2022-10460,2024-07-14,Drug Offense,Industrial Area,Suspect found in possession of prescription pills during routine traffic stop.,0
+CR-2019-10461,2025-04-07,Robbery,South District,Suspect threatened victim with baseball bat before taking phone.,1
+CR-2022-10462,2023-08-12,Burglary,South District,Home invasion occurred while residents were away. basement window was damaged. electronics and jewelry missing.,0
+CR-2022-10463,2023-12-05,Other,North District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2020-10464,2023-05-26,Theft,North District,Suspect took victim's credit cards when victim was not looking at parking lot.,0
+CR-2019-10465,2024-10-03,Theft,Downtown,Unknown suspect stole credit cards from victim's office. No surveillance footage available.,0
+CR-2019-10466,2023-08-22,Other,Central Park,"Suspicious activity reported near public restroom, investigation ongoing.",0
+CR-2022-10467,2024-02-17,Assault,Downtown,Unprovoked attack by unknown suspect left victim with black eye. Witnesses described suspect as person wearing mask and gloves.,1
+CR-2021-10468,2023-05-16,Assault,Industrial Area,Domestic dispute escalated to physical violence resulting in black eye to victim.,0
+CR-2022-10469,2023-09-08,Theft,North District,Suspect took victim's jewelry when victim was not looking at public restroom.,0
+CR-2021-10470,2023-12-01,Assault,South District,Domestic dispute escalated to physical violence resulting in fractured ribs to victim.,1
+CR-2021-10471,2023-10-22,Robbery,Shopping Mall,Victim was approached by 1 suspects who took cash by force.,1
+CR-2018-10472,2022-10-25,Robbery,North District,"Armed suspect demanded money from store clerk, escaped with $1111.",0
+CR-2018-10473,2023-11-09,Theft,North District,Suspect took victim's jewelry when victim was not looking at bus stop.,0
+CR-2019-10474,2022-12-04,Assault,West District,Unprovoked attack by unknown suspect left victim with lacerations requiring stitches. Witnesses described suspect as medium-built female with distinctive tattoos.,0
+CR-2019-10475,2024-05-31,Homicide,West District,Multiple gunshot wounds led to victim's death in apparent targeted attack.,1
+CR-2018-10476,2024-11-27,Assault,Industrial Area,Victim sustained broken nose after altercation with suspect at park bench.,1
+CR-2022-10477,2024-11-11,Assault,West District,Physical altercation between victim and known suspect resulted in broken nose.,1
+CR-2022-10478,2022-07-12,Vandalism,Downtown,"Public park bench was destroyed, causing $184 in damages. No witnesses.",0
+CR-2020-10479,2024-02-09,Theft,East District,Suspect took victim's vehicle when victim was not looking at gym.,0
+CR-2019-10480,2023-04-17,Other,University Campus,Violation of restraining order when suspect approached protected person.,0
+CR-2020-10481,2023-08-28,Theft,Downtown,Unknown suspect stole bicycle from victim's library. No surveillance footage available.,0
+CR-2022-10482,2024-05-28,Drug Offense,Central Park,Search warrant execution revealed methamphetamine and paraphernalia in suspect's residence.,0
+CR-2019-10483,2025-01-02,Assault,Shopping Mall,Victim sustained facial bruising after altercation with suspect at restaurant.,1
+CR-2018-10484,2023-03-11,Burglary,North District,Business broken into overnight. pet door showed signs of forced entry. artwork and antiques reported missing.,0
+CR-2018-10485,2024-07-30,Robbery,West District,Victim was approached by 3 suspects who took phone by force.,1
+CR-2019-10486,2022-08-13,Theft,University Campus,Unknown suspect stole jewelry from victim's gym. No surveillance footage available.,0
+CR-2022-10487,2024-01-28,Assault,Downtown,Unprovoked attack by unknown suspect left victim with lacerations requiring stitches. Witnesses described suspect as medium-built female with distinctive tattoos.,1
+CR-2022-10488,2022-09-23,Vandalism,Central Park,Business storefront windows broken with baseball bat. Surveillance camera captured incident.,0
+CR-2021-10489,2023-09-21,Theft,Downtown,Victim reported bicycle stolen from gym. No witnesses present.,0
+CR-2019-10490,2022-10-16,Theft,South District,Suspect took victim's phone when victim was not looking at store.,0
+CR-2021-10491,2024-12-26,Theft,North District,Suspect took victim's phone when victim was not looking at library.,0
+CR-2021-10492,2024-03-02,Theft,Transit Station,Victim's bicycle was taken while they were shopping. No suspects identified.,0
+CR-2019-10493,2022-05-25,Harassment,Shopping Mall,Victim received 15 threatening messages from known suspect over 5 months.,0
+CR-2019-10494,2022-09-12,Vandalism,South District,Vehicle's windows was deliberately damaged while parked at parking lot.,0
+CR-2021-10495,2022-11-05,Burglary,Central Park,Business broken into overnight. side entrance showed signs of forced entry. electronics and cash reported missing.,0
+CR-2018-10496,2023-10-02,Fraud,West District,Victim reported unauthorized transactions totaling $1200 on their credit card.,0
+CR-2019-10497,2023-10-09,Drug Offense,Downtown,Anonymous tip led to discovery of methamphetamine manufacturing operation.,0
+CR-2019-10498,2022-07-13,Burglary,South District,Business broken into overnight. balcony door showed signs of forced entry. electronics and jewelry reported missing.,0
+CR-2022-10499,2024-03-12,Fraud,Downtown,"Business reported accounting discrepancies amounting to $500, suspected internal fraud.",0
+CR-2022-10500,2025-03-05,Harassment,West District,Victim reported ongoing harassment by neighbor including noise disturbances.,0
+CR-2022-10501,2022-08-30,Assault,Downtown,Domestic dispute escalated to physical violence resulting in minor cuts and bruises to victim.,0
+CR-2018-10502,2023-09-13,Other,Downtown,"Suspicious activity reported near restaurant, investigation ongoing.",0
+CR-2019-10503,2023-08-02,Fraud,West District,Victim reported unauthorized transactions totaling $15000 on their credit card.,0
+CR-2020-10504,2024-10-25,Drug Offense,South District,Suspect observed selling prescription pills near store.,0
+CR-2018-10505,2023-08-29,Fraud,Industrial Area,"Suspect used victim's identity to open rental accounts, causing financial damage of $5000.",0
+CR-2019-10506,2023-11-03,Harassment,Downtown,Victim received 4 threatening messages from known suspect over 1 months.,0
+CR-2018-10507,2025-02-23,Burglary,Downtown,Business broken into overnight. pet door showed signs of forced entry. cash and electronics reported missing.,1
+CR-2020-10508,2024-03-14,Burglary,South District,Suspect broke into residence via balcony door and took electronics and cash. No witnesses.,0
+CR-2021-10509,2023-10-04,Theft,Downtown,Unknown suspect stole phone from victim's gym. No surveillance footage available.,0
+CR-2022-10510,2024-07-16,Drug Offense,Downtown,Suspect observed selling prescription pills near office.,0
+CR-2021-10511,2022-10-21,Robbery,Downtown,"Bank robbery involving suspect with implied weapon in pocket, escaped with undisclosed amount.",0
+CR-2021-10512,2023-09-24,Vandalism,Downtown,Property damaged by graffiti depicting obscene images. Estimated repair cost: $778.,0
+CR-2019-10513,2025-03-30,Vandalism,Downtown,Business storefront windows broken with spray paint. Surveillance camera captured incident.,0
+CR-2019-10514,2023-12-01,Fraud,Downtown,"Business reported accounting discrepancies amounting to $2500, suspected internal fraud.",0
+CR-2020-10515,2022-11-13,Theft,North District,Victim reported vehicle stolen from public restroom. No witnesses present.,0
+CR-2019-10516,2025-01-08,Theft,Industrial Area,Victim reported credit cards stolen from store. No witnesses present.,0
+CR-2020-10517,2023-06-22,Burglary,Downtown,Suspect broke into residence via skylight and took jewelry and watches. No witnesses.,0
+CR-2018-10518,2023-08-10,Theft,North District,Suspect took victim's cash when victim was not looking at office.,0
+CR-2020-10519,2023-08-05,Vandalism,Transit Station,Property damaged by graffiti depicting anarchist symbols. Estimated repair cost: $382.,0
+CR-2021-10520,2022-09-24,Assault,West District,Domestic dispute escalated to physical violence resulting in fractured ribs to victim.,0
+CR-2020-10521,2023-05-20,Assault,Industrial Area,Unprovoked attack by unknown suspect left victim with fractured ribs. Witnesses described suspect as person wearing mask and gloves.,1
+CR-2020-10522,2022-08-31,Other,North District,Violation of restraining order when suspect approached protected person.,0
+CR-2021-10523,2022-09-01,Burglary,Downtown,Suspect broke into residence via side entrance and took electronics and cash. No witnesses.,0
+CR-2018-10524,2022-12-26,Fraud,West District,Victim was deceived into transferring $5000 to fraudulent investment scheme.,0
+CR-2020-10525,2023-10-31,Other,North District,Trespassing incident at closed business premises after hours.,0
+CR-2019-10526,2023-11-18,Harassment,Downtown,Online harassment campaign targeted victim with derogatory comments.,0
+CR-2018-10527,2024-10-19,Assault,South District,Unprovoked attack by unknown suspect left victim with minor cuts and bruises. Witnesses described suspect as person wearing mask and gloves.,1
+CR-2019-10528,2024-01-14,Vandalism,South District,Business storefront windows broken with rocks. Surveillance camera captured incident.,0
+CR-2018-10529,2024-06-16,Vandalism,Central Park,"Public street sign was destroyed, causing $261 in damages. No witnesses.",0
+CR-2021-10530,2022-10-21,Burglary,Shopping Mall,Suspect broke into residence via basement window and took electronics and cash. No witnesses.,0
+CR-2018-10531,2023-10-16,Theft,North District,Unknown suspect stole identity documents from victim's sidewalk. No surveillance footage available.,0
+CR-2019-10532,2023-06-04,Theft,North District,Victim reported vehicle stolen from park bench. No witnesses present.,0
+CR-2021-10533,2023-01-11,Theft,North District,Suspect took victim's wallet when victim was not looking at office.,0
+CR-2019-10534,2022-11-07,Burglary,Downtown,Suspect broke into residence via rear window and took electronics and jewelry. No witnesses.,0
+CR-2021-10535,2023-12-03,Fraud,East District,"Business reported accounting discrepancies amounting to $10000, suspected internal fraud.",0
+CR-2022-10536,2022-10-29,Burglary,Central Park,Forced entry through garage door. electronics and jewelry were stolen. No alarm system triggered.,0
+CR-2019-10537,2024-02-17,Drug Offense,University Campus,Anonymous tip led to discovery of heroin manufacturing operation.,0
+CR-2022-10538,2023-08-21,Robbery,West District,"Bank robbery involving suspect with broken bottle, escaped with undisclosed amount.",1
+CR-2022-10539,2023-02-24,Other,Downtown,Trespassing incident at closed business premises after hours.,0
+CR-2019-10540,2024-12-25,Burglary,North District,Forced entry through basement window. electronics and cash were stolen. No alarm system triggered.,1
+CR-2022-10541,2023-05-05,Other,Downtown,"Suspicious activity reported near restaurant, investigation ongoing.",0
+CR-2018-10542,2024-01-05,Theft,North District,Victim's phone was taken while they were distracted by phone. No suspects identified.,0
+CR-2018-10543,2023-11-30,Other,North District,Violation of restraining order when suspect approached protected person.,0
+CR-2021-10544,2024-11-25,Fraud,Central Park,Victim was deceived into transferring $500 to fraudulent investment scheme.,1
+CR-2018-10545,2023-09-27,Fraud,North District,Victim was deceived into transferring $100000 to fraudulent investment scheme.,0
+CR-2019-10546,2024-08-05,Theft,University Campus,Unknown suspect stole bicycle from victim's library. No surveillance footage available.,0
+CR-2018-10547,2025-04-10,Theft,Industrial Area,Suspect took victim's identity documents when victim was not looking at library.,0
+CR-2020-10548,2024-01-13,Vandalism,North District,Vehicle's hood was deliberately damaged while parked at library.,0
+CR-2021-10549,2023-11-08,Assault,Downtown,Victim sustained fractured ribs after altercation with suspect at sidewalk.,1
+CR-2018-10550,2024-12-01,Burglary,Industrial Area,Suspect broke into residence via garage door and took electronics and cash. No witnesses.,1
+CR-2019-10551,2023-05-04,Vandalism,Central Park,Business storefront windows broken with baseball bat. Surveillance camera captured incident.,0
+CR-2022-10552,2022-07-04,Harassment,Industrial Area,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2020-10553,2025-01-11,Fraud,Central Park,Victim reported unauthorized transactions totaling $7500 on their credit card.,1
+CR-2018-10554,2023-07-07,Fraud,Downtown,"Suspect used victim's identity to open mobile phone accounts, causing financial damage of $25000.",0
+CR-2020-10555,2025-03-19,Fraud,South District,Victim was deceived into transferring $7500 to fraudulent investment scheme.,1
+CR-2021-10556,2023-12-08,Burglary,Downtown,Home invasion occurred while residents were away. balcony door was damaged. jewelry and watches missing.,0
+CR-2022-10557,2023-02-17,Theft,Downtown,Suspect took victim's wallet when victim was not looking at public restroom.,0
+CR-2021-10558,2023-08-05,Vandalism,North District,"Public street sign was destroyed, causing $930 in damages. No witnesses.",0
+CR-2018-10559,2023-10-27,Theft,Shopping Mall,Suspect took victim's laptop when victim was not looking at restaurant.,0
+CR-2019-10560,2023-10-22,Assault,East District,Physical altercation between victim and known suspect resulted in defensive wounds on hands.,1
+CR-2019-10561,2024-05-30,Fraud,South District,"Business reported accounting discrepancies amounting to $50000, suspected internal fraud.",0
+CR-2020-10562,2022-05-26,Assault,East District,Physical altercation between victim and known suspect resulted in concussion.,0
+CR-2022-10563,2024-10-30,Drug Offense,Downtown,Search warrant execution revealed prescription pills and paraphernalia in suspect's residence.,0
+CR-2021-10564,2024-12-31,Fraud,Downtown,Victim reported unauthorized transactions totaling $100000 on their credit card.,1
+CR-2018-10565,2024-07-08,Burglary,Transit Station,Forced entry through basement window. electronics and cash were stolen. No alarm system triggered.,1
+CR-2022-10566,2025-01-23,Drug Offense,West District,Anonymous tip led to discovery of cocaine manufacturing operation.,0
+CR-2021-10567,2024-10-26,Homicide,South District,Victim discovered deceased in bus stop with suspicious circumstances.,1
+CR-2020-10568,2022-08-25,Fraud,West District,"Business reported accounting discrepancies amounting to $1200, suspected internal fraud.",0
+CR-2019-10569,2025-02-01,Vandalism,Downtown,Property damaged by graffiti depicting tags and signatures. Estimated repair cost: $370.,0
+CR-2022-10570,2023-01-06,Robbery,East District,Suspect threatened victim with taser before taking cash.,1
+CR-2020-10571,2024-11-14,Drug Offense,North District,Suspect found in possession of synthetic drugs during routine traffic stop.,0
+CR-2019-10572,2024-12-23,Robbery,North District,"Armed suspect demanded money from store clerk, escaped with $142.",1
+CR-2019-10573,2022-09-19,Robbery,Downtown,"Armed suspect demanded money from store clerk, escaped with $1964.",0
+CR-2022-10574,2023-10-14,Burglary,South District,Home invasion occurred while residents were away. skylight was damaged. cash and electronics missing.,0
+CR-2019-10575,2024-11-24,Assault,East District,Physical altercation between victim and known suspect resulted in black eye.,1
+CR-2018-10576,2024-07-31,Robbery,Industrial Area,"Bank robbery involving suspect with knife, escaped with undisclosed amount.",1
+CR-2020-10577,2024-11-02,Theft,West District,Suspect took victim's jewelry when victim was not looking at public restroom.,0
+CR-2019-10578,2025-04-10,Burglary,Downtown,Business broken into overnight. garage door showed signs of forced entry. jewelry and watches reported missing.,1
+CR-2018-10579,2022-08-18,Other,Downtown,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2020-10580,2023-09-14,Harassment,North District,Victim received 12 threatening messages from known suspect over 4 months.,0
+CR-2022-10581,2022-11-29,Vandalism,South District,Business storefront windows broken with skateboard. Surveillance camera captured incident.,0
+CR-2021-10582,2023-07-20,Theft,Central Park,Suspect took victim's bicycle when victim was not looking at bus stop.,0
+CR-2021-10583,2024-08-08,Homicide,West District,Victim found deceased with severe beating. Crime scene indicates signs of struggle.,1
+CR-2020-10584,2022-11-21,Fraud,Downtown,Victim reported unauthorized transactions totaling $5000 on their credit card.,0
+CR-2021-10585,2023-08-30,Fraud,South District,Victim reported unauthorized transactions totaling $1200 on their credit card.,0
+CR-2020-10586,2023-12-03,Theft,South District,Victim's vehicle was taken while they were walking. No suspects identified.,0
+CR-2019-10587,2023-12-21,Burglary,Industrial Area,Forced entry through skylight. artwork and antiques were stolen. No alarm system triggered.,0
+CR-2020-10588,2024-11-18,Robbery,West District,Victim was approached by 1 suspects who took wallet by force.,1
+CR-2021-10589,2024-12-21,Other,West District,Trespassing incident at closed business premises after hours.,0
+CR-2018-10590,2024-05-18,Drug Offense,East District,Suspect observed selling prescription pills near park bench.,0
+CR-2020-10591,2024-11-14,Assault,North District,Unprovoked attack by unknown suspect left victim with concussion. Witnesses described suspect as medium-built female with distinctive tattoos.,1
+CR-2022-10592,2024-02-21,Theft,North District,Suspect took victim's cash when victim was not looking at sidewalk.,0
+CR-2018-10593,2024-07-14,Burglary,East District,Forced entry through garage door. jewelry and watches were stolen. No alarm system triggered.,1
+CR-2020-10594,2025-01-11,Burglary,Central Park,Business broken into overnight. pet door showed signs of forced entry. electronics and jewelry reported missing.,1
+CR-2021-10595,2022-06-23,Harassment,Industrial Area,Victim reported ongoing harassment by neighbor including property damage.,0
+CR-2022-10596,2024-03-11,Fraud,Industrial Area,"Business reported accounting discrepancies amounting to $2500, suspected internal fraud.",0
+CR-2021-10597,2025-03-10,Burglary,Central Park,Business broken into overnight. garage door showed signs of forced entry. electronics and cash reported missing.,1
+CR-2022-10598,2024-02-06,Theft,Industrial Area,Victim's laptop was taken while they were exercising. No suspects identified.,0
+CR-2020-10599,2025-01-23,Theft,Shopping Mall,Suspect took victim's credit cards when victim was not looking at parking lot.,0
+CR-2021-10600,2025-03-10,Robbery,Industrial Area,"Bank robbery involving suspect with blunt object, escaped with undisclosed amount.",1
+CR-2018-10601,2025-02-11,Assault,South District,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,1
+CR-2021-10602,2023-06-28,Assault,Central Park,Victim sustained defensive wounds on hands after altercation with suspect at store.,1
+CR-2018-10603,2024-02-04,Homicide,South District,Domestic dispute escalated resulting in fatal gunshot wounds to victim.,1
+CR-2022-10604,2023-09-03,Vandalism,North District,Business storefront windows broken with hammer. Surveillance camera captured incident.,0
+CR-2021-10605,2023-10-08,Theft,Central Park,Victim's laptop was taken while they were exercising. No suspects identified.,0
+CR-2020-10606,2024-08-17,Burglary,North District,Forced entry through basement window. cash and electronics were stolen. No alarm system triggered.,1
+CR-2020-10607,2024-11-22,Other,North District,"Suspicious activity reported near library, investigation ongoing.",0
+CR-2018-10608,2023-11-10,Assault,Downtown,Physical altercation between victim and known suspect resulted in concussion.,1
+CR-2020-10609,2023-04-13,Other,North District,Trespassing incident at closed business premises after hours.,0
+CR-2018-10610,2024-08-30,Theft,East District,Victim's credit cards was taken while they were commuting. No suspects identified.,0
+CR-2022-10611,2024-01-29,Fraud,Industrial Area,Victim was deceived into transferring $7500 to fraudulent investment scheme.,0
+CR-2018-10612,2023-10-23,Harassment,North District,Online harassment campaign targeted victim with threats of violence.,0
+CR-2022-10613,2024-03-20,Assault,North District,Unprovoked attack by unknown suspect left victim with concussion. Witnesses described suspect as young male in hooded sweatshirt.,1
+CR-2018-10614,2024-07-11,Fraud,Downtown,"Business reported accounting discrepancies amounting to $500, suspected internal fraud.",0
+CR-2020-10615,2022-10-16,Harassment,South District,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2020-10616,2024-10-09,Theft,North District,Victim's bicycle was taken while they were walking. No suspects identified.,0
+CR-2018-10617,2022-05-05,Assault,Shopping Mall,Unprovoked attack by unknown suspect left victim with concussion. Witnesses described suspect as person wearing mask and gloves.,0
+CR-2022-10618,2023-07-05,Burglary,Industrial Area,Suspect broke into residence via pet door and took electronics and cash. No witnesses.,0
+CR-2021-10619,2023-09-18,Harassment,Downtown,Victim reported ongoing harassment by neighbor including spreading rumors.,0
+CR-2022-10620,2023-06-21,Theft,East District,Victim's phone was taken while they were working. No suspects identified.,0
+CR-2019-10621,2024-12-31,Robbery,West District,Victim was approached by 3 suspects who took credit cards by force.,1
+CR-2022-10622,2023-06-02,Fraud,Shopping Mall,Victim reported unauthorized transactions totaling $50000 on their credit card.,0
+CR-2021-10623,2024-01-31,Vandalism,South District,Property damaged by graffiti depicting anarchist symbols. Estimated repair cost: $199.,0
+CR-2022-10624,2022-07-30,Drug Offense,Industrial Area,Suspect found in possession of synthetic drugs during routine traffic stop.,0
+CR-2022-10625,2024-10-12,Drug Offense,Shopping Mall,Suspect found in possession of cocaine during routine traffic stop.,0
+CR-2018-10626,2024-05-26,Vandalism,Downtown,Business storefront windows broken with rocks. Surveillance camera captured incident.,0
+CR-2019-10627,2023-05-08,Fraud,Downtown,"Business reported accounting discrepancies amounting to $500, suspected internal fraud.",0
+CR-2018-10628,2023-01-09,Burglary,South District,Home invasion occurred while residents were away. side entrance was damaged. electronics and jewelry missing.,0
+CR-2022-10629,2024-12-27,Other,Central Park,Violation of restraining order when suspect approached protected person.,0
+CR-2018-10630,2023-01-18,Drug Offense,South District,Suspect found in possession of marijuana during routine traffic stop.,0
+CR-2020-10631,2023-04-26,Fraud,Industrial Area,"Suspect used victim's identity to open online shopping accounts, causing financial damage of $5000.",0
+CR-2021-10632,2022-10-28,Harassment,Shopping Mall,Victim reported ongoing harassment by neighbor including stalking behavior.,0
+CR-2020-10633,2023-10-28,Theft,South District,Unknown suspect stole cash from victim's library. No surveillance footage available.,0
+CR-2021-10634,2024-02-24,Assault,Downtown,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,1
+CR-2021-10635,2023-06-11,Homicide,North District,Victim found deceased with strangulation. Crime scene indicates signs of struggle.,1
+CR-2021-10636,2024-10-16,Drug Offense,North District,Search warrant execution revealed prescription pills and paraphernalia in suspect's residence.,0
+CR-2020-10637,2022-08-20,Fraud,Downtown,Victim reported unauthorized transactions totaling $500 on their credit card.,0
+CR-2022-10638,2024-11-01,Harassment,East District,Victim received 18 threatening messages from known suspect over 4 months.,0
+CR-2018-10639,2025-03-06,Drug Offense,Downtown,Suspect found in possession of prescription pills during routine traffic stop.,0
+CR-2022-10640,2024-10-28,Theft,East District,Suspect took victim's laptop when victim was not looking at park bench.,0
+CR-2020-10641,2023-10-25,Burglary,Downtown,Home invasion occurred while residents were away. rear window was damaged. electronics and jewelry missing.,0
+CR-2020-10642,2023-07-08,Assault,South District,Unprovoked attack by unknown suspect left victim with facial bruising. Witnesses described suspect as young male in hooded sweatshirt.,1
+CR-2020-10643,2022-08-19,Assault,North District,Victim sustained concussion after altercation with suspect at park bench.,0
+CR-2022-10644,2022-08-16,Theft,University Campus,Victim's purse was taken while they were working. No suspects identified.,0
+CR-2022-10645,2025-03-10,Homicide,East District,Domestic dispute escalated resulting in fatal poisoning to victim.,1
+CR-2021-10646,2022-11-03,Other,North District,Trespassing incident at closed business premises after hours.,0
+CR-2021-10647,2022-08-03,Other,Central Park,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10648,2023-02-15,Fraud,Downtown,Victim was deceived into transferring $500 to fraudulent investment scheme.,0
+CR-2022-10649,2023-03-25,Assault,North District,Domestic dispute escalated to physical violence resulting in concussion to victim.,0
+CR-2022-10650,2024-05-17,Theft,North District,Victim's jewelry was taken while they were exercising. No suspects identified.,0
+CR-2021-10651,2023-02-10,Harassment,East District,Online harassment campaign targeted victim with derogatory comments.,0
+CR-2018-10652,2023-08-12,Theft,Central Park,Victim's cash was taken while they were distracted by phone. No suspects identified.,0
+CR-2021-10653,2023-06-25,Robbery,West District,"Armed suspect demanded money from store clerk, escaped with $1631.",1
+CR-2019-10654,2022-07-29,Burglary,Central Park,Forced entry through front door. personal documents and valuables were stolen. No alarm system triggered.,0
+CR-2020-10655,2022-09-28,Vandalism,Downtown,Vehicle's hood was deliberately damaged while parked at gym.,0
+CR-2022-10656,2024-02-02,Vandalism,Shopping Mall,Property damaged by graffiti depicting gang symbols. Estimated repair cost: $110.,0
+CR-2020-10657,2023-01-08,Burglary,South District,Forced entry through garage door. electronics and jewelry were stolen. No alarm system triggered.,0
+CR-2022-10658,2023-05-16,Fraud,Downtown,"Suspect used victim's identity to open investment accounts, causing financial damage of $15000.",0
+CR-2021-10659,2023-10-26,Theft,University Campus,Victim's purse was taken while they were dining. No suspects identified.,0
+CR-2020-10660,2022-09-10,Assault,Downtown,Unprovoked attack by unknown suspect left victim with lacerations requiring stitches. Witnesses described suspect as person wearing mask and gloves.,0
+CR-2021-10661,2024-08-27,Assault,North District,Unprovoked attack by unknown suspect left victim with black eye. Witnesses described suspect as young male in hooded sweatshirt.,1
+CR-2021-10662,2023-05-28,Burglary,East District,Business broken into overnight. skylight showed signs of forced entry. electronics and jewelry reported missing.,0
+CR-2018-10663,2023-08-28,Fraud,Industrial Area,"Suspect used victim's identity to open loan accounts, causing financial damage of $100000.",0
+CR-2020-10664,2022-07-07,Assault,East District,Domestic dispute escalated to physical violence resulting in broken nose to victim.,0
+CR-2021-10665,2024-10-05,Other,North District,Trespassing incident at closed business premises after hours.,0
+CR-2018-10666,2022-08-10,Theft,West District,Victim's phone was taken while they were working. No suspects identified.,0
+CR-2018-10667,2024-08-03,Theft,Industrial Area,Victim's bicycle was taken while they were exercising. No suspects identified.,0
+CR-2020-10668,2024-07-31,Assault,West District,Domestic dispute escalated to physical violence resulting in lacerations requiring stitches to victim.,1
+CR-2019-10669,2023-08-09,Other,Downtown,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2020-10670,2024-10-08,Theft,North District,Suspect took victim's credit cards when victim was not looking at public restroom.,0
+CR-2021-10671,2022-10-27,Burglary,West District,Home invasion occurred while residents were away. rear window was damaged. artwork and antiques missing.,0
+CR-2018-10672,2022-05-05,Theft,Transit Station,Unknown suspect stole vehicle from victim's gym. No surveillance footage available.,0
+CR-2020-10673,2025-04-09,Burglary,West District,Business broken into overnight. balcony door showed signs of forced entry. artwork and antiques reported missing.,1
+CR-2022-10674,2022-09-04,Vandalism,Central Park,Vehicle's doors was deliberately damaged while parked at library.,0
+CR-2018-10675,2022-12-29,Harassment,East District,Online harassment campaign targeted victim with threats of violence.,0
+CR-2018-10676,2024-06-26,Theft,South District,Suspect took victim's jewelry when victim was not looking at gym.,0
+CR-2020-10677,2024-10-12,Robbery,University Campus,"Bank robbery involving suspect with pepper spray, escaped with undisclosed amount.",1
+CR-2019-10678,2022-05-31,Other,East District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2019-10679,2024-11-07,Theft,Industrial Area,Victim reported credit cards stolen from bus stop. No witnesses present.,0
+CR-2021-10680,2023-03-04,Theft,South District,Unknown suspect stole purse from victim's gym. No surveillance footage available.,0
+CR-2021-10681,2023-02-05,Assault,North District,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,0
+CR-2020-10682,2024-04-18,Fraud,Industrial Area,"Suspect used victim's identity to open rental accounts, causing financial damage of $15000.",0
+CR-2018-10683,2023-06-27,Theft,North District,Victim reported credit cards stolen from park bench. No witnesses present.,0
+CR-2020-10684,2024-04-11,Theft,West District,Victim's identity documents was taken while they were distracted by phone. No suspects identified.,0
+CR-2019-10685,2025-02-13,Robbery,East District,"Armed suspect demanded money from store clerk, escaped with $1669.",1
+CR-2021-10686,2022-09-23,Fraud,South District,Victim reported unauthorized transactions totaling $5000 on their credit card.,0
+CR-2021-10687,2022-06-08,Robbery,East District,Victim was approached by 3 suspects who took wallet by force.,0
+CR-2021-10688,2025-04-03,Robbery,North District,Suspect threatened victim with handgun before taking purse.,1
+CR-2019-10689,2024-08-13,Robbery,West District,"Armed suspect demanded money from store clerk, escaped with $579.",1
+CR-2018-10690,2025-01-01,Theft,Central Park,Victim's jewelry was taken while they were talking with others. No suspects identified.,0
+CR-2019-10691,2023-02-04,Homicide,East District,Domestic dispute escalated resulting in fatal blunt force trauma to victim.,1
+CR-2018-10692,2023-05-11,Theft,Central Park,Victim's purse was taken while they were distracted by phone. No suspects identified.,0
+CR-2022-10693,2024-02-13,Theft,South District,Victim reported purse stolen from restaurant. No witnesses present.,0
+CR-2020-10694,2022-08-31,Harassment,North District,Victim reported ongoing harassment by neighbor including verbal threats.,0
+CR-2021-10695,2024-10-13,Other,South District,Violation of restraining order when suspect approached protected person.,0
+CR-2021-10696,2024-03-07,Theft,West District,Victim's purse was taken while they were talking with others. No suspects identified.,0
+CR-2019-10697,2024-10-31,Other,Industrial Area,Trespassing incident at closed business premises after hours.,0
+CR-2019-10698,2022-10-08,Theft,West District,Unknown suspect stole wallet from victim's public restroom. No surveillance footage available.,0
+CR-2022-10699,2024-10-31,Burglary,Downtown,Home invasion occurred while residents were away. front door was damaged. jewelry and watches missing.,1
+CR-2021-10700,2023-06-21,Other,North District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2021-10701,2024-12-20,Drug Offense,Transit Station,Anonymous tip led to discovery of prescription pills manufacturing operation.,0
+CR-2018-10702,2024-09-03,Assault,South District,Unprovoked attack by unknown suspect left victim with black eye. Witnesses described suspect as medium-built female with distinctive tattoos.,1
+CR-2019-10703,2022-11-29,Burglary,Downtown,Business broken into overnight. garage door showed signs of forced entry. cash and electronics reported missing.,0
+CR-2018-10704,2025-02-16,Assault,Industrial Area,Domestic dispute escalated to physical violence resulting in black eye to victim.,1
+CR-2019-10705,2024-01-25,Drug Offense,South District,Anonymous tip led to discovery of heroin manufacturing operation.,0
+CR-2018-10706,2023-12-28,Vandalism,Downtown,Business storefront windows broken with baseball bat. Surveillance camera captured incident.,0
+CR-2018-10707,2024-05-31,Drug Offense,West District,Suspect found in possession of hallucinogens during routine traffic stop.,0
+CR-2021-10708,2023-03-08,Drug Offense,South District,Anonymous tip led to discovery of methamphetamine manufacturing operation.,0
+CR-2018-10709,2023-04-07,Theft,Downtown,Suspect took victim's credit cards when victim was not looking at public restroom.,0
+CR-2022-10710,2022-06-04,Theft,East District,Victim's identity documents was taken while they were distracted by phone. No suspects identified.,0
+CR-2021-10711,2022-06-08,Drug Offense,North District,Search warrant execution revealed prescription pills and paraphernalia in suspect's residence.,0
+CR-2019-10712,2024-08-31,Other,Downtown,Trespassing incident at closed business premises after hours.,0
+CR-2020-10713,2022-08-05,Burglary,Shopping Mall,Business broken into overnight. garage door showed signs of forced entry. jewelry and watches reported missing.,0
+CR-2021-10714,2023-10-09,Assault,University Campus,Unprovoked attack by unknown suspect left victim with lacerations requiring stitches. Witnesses described suspect as young male in hooded sweatshirt.,1
+CR-2021-10715,2024-08-21,Drug Offense,North District,Suspect found in possession of cocaine during routine traffic stop.,0
+CR-2021-10716,2024-06-08,Robbery,East District,"Armed suspect demanded money from store clerk, escaped with $424.",1
+CR-2019-10717,2022-10-08,Robbery,Downtown,"Bank robbery involving suspect with blunt object, escaped with undisclosed amount.",0
+CR-2022-10718,2024-02-10,Robbery,East District,"Bank robbery involving suspect with baseball bat, escaped with undisclosed amount.",1
+CR-2021-10719,2022-04-28,Theft,North District,Suspect took victim's credit cards when victim was not looking at sidewalk.,0
+CR-2021-10720,2024-12-14,Other,Industrial Area,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2018-10721,2022-09-23,Homicide,Central Park,Victim discovered deceased in parking lot with suspicious circumstances.,1
+CR-2018-10722,2025-03-20,Burglary,North District,Home invasion occurred while residents were away. rear window was damaged. artwork and antiques missing.,1
+CR-2020-10723,2023-08-18,Other,East District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10724,2023-07-31,Drug Offense,East District,Search warrant execution revealed prescription pills and paraphernalia in suspect's residence.,0
+CR-2018-10725,2024-01-07,Robbery,Transit Station,"Bank robbery involving suspect with blunt object, escaped with undisclosed amount.",1
+CR-2019-10726,2023-10-08,Robbery,North District,"Bank robbery involving suspect with handgun, escaped with undisclosed amount.",1
+CR-2019-10727,2023-04-13,Homicide,Industrial Area,Domestic dispute escalated resulting in fatal blunt force trauma to victim.,1
+CR-2020-10728,2023-01-08,Other,East District,Trespassing incident at closed business premises after hours.,0
+CR-2021-10729,2025-01-17,Theft,West District,Unknown suspect stole phone from victim's library. No surveillance footage available.,0
+CR-2018-10730,2025-03-24,Other,North District,"Suspicious activity reported near park bench, investigation ongoing.",0
+CR-2021-10731,2023-10-27,Theft,West District,Victim reported bicycle stolen from office. No witnesses present.,0
+CR-2019-10732,2022-04-21,Assault,North District,Victim sustained defensive wounds on hands after altercation with suspect at office.,0
+CR-2018-10733,2024-11-17,Burglary,Central Park,Business broken into overnight. front door showed signs of forced entry. jewelry and watches reported missing.,1
+CR-2022-10734,2023-01-18,Other,West District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2019-10735,2024-03-30,Theft,South District,Victim reported credit cards stolen from sidewalk. No witnesses present.,0
+CR-2020-10736,2024-12-31,Harassment,South District,Victim received 17 threatening messages from known suspect over 1 months.,1
+CR-2022-10737,2023-12-27,Harassment,Transit Station,Victim reported ongoing harassment by neighbor including false complaints to authorities.,0
+CR-2022-10738,2022-06-05,Harassment,North District,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2018-10739,2023-01-13,Drug Offense,South District,Suspect observed selling prescription pills near office.,0
+CR-2020-10740,2023-07-06,Fraud,North District,"Suspect used victim's identity to open mobile phone accounts, causing financial damage of $10000.",0
+CR-2018-10741,2023-01-15,Fraud,Downtown,Victim was deceived into transferring $100000 to fraudulent investment scheme.,0
+CR-2019-10742,2022-09-17,Theft,Industrial Area,Victim reported phone stolen from gym. No witnesses present.,0
+CR-2022-10743,2022-08-19,Other,University Campus,Trespassing incident at closed business premises after hours.,0
+CR-2022-10744,2024-08-11,Other,Central Park,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10745,2023-04-13,Assault,West District,Physical altercation between victim and known suspect resulted in fractured ribs.,0
+CR-2018-10746,2025-03-14,Robbery,University Campus,"Bank robbery involving suspect with blunt object, escaped with undisclosed amount.",1
+CR-2019-10747,2022-07-18,Assault,Downtown,Domestic dispute escalated to physical violence resulting in defensive wounds on hands to victim.,0
+CR-2019-10748,2022-10-04,Theft,Central Park,Victim's identity documents was taken while they were commuting. No suspects identified.,0
+CR-2019-10749,2023-07-16,Robbery,North District,"Bank robbery involving suspect with handgun, escaped with undisclosed amount.",1
+CR-2020-10750,2024-09-21,Assault,Shopping Mall,Victim sustained defensive wounds on hands after altercation with suspect at store.,1
+CR-2022-10751,2022-04-26,Kidnapping,Downtown,"Brief abduction during carjacking incident, victim released unharmed.",1
+CR-2020-10752,2023-10-14,Other,Downtown,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2022-10753,2023-03-09,Burglary,South District,Home invasion occurred while residents were away. balcony door was damaged. personal documents and valuables missing.,0
+CR-2022-10754,2024-04-03,Drug Offense,Transit Station,Suspect observed selling prescription pills near park bench.,0
+CR-2022-10755,2024-03-09,Burglary,West District,Suspect broke into residence via pet door and took personal documents and valuables. No witnesses.,0
+CR-2019-10756,2025-04-02,Harassment,University Campus,Victim received 4 threatening messages from known suspect over 1 months.,1
+CR-2019-10757,2023-02-25,Theft,Downtown,Victim reported purse stolen from restaurant. No witnesses present.,0
+CR-2019-10758,2023-04-05,Drug Offense,North District,Search warrant execution revealed marijuana and paraphernalia in suspect's residence.,0
+CR-2021-10759,2024-03-25,Vandalism,East District,Vehicle's hood was deliberately damaged while parked at sidewalk.,0
+CR-2022-10760,2022-07-24,Burglary,Industrial Area,Forced entry through balcony door. personal documents and valuables were stolen. No alarm system triggered.,0
+CR-2022-10761,2024-03-16,Assault,Shopping Mall,Victim sustained fractured ribs after altercation with suspect at restaurant.,1
+CR-2019-10762,2023-10-20,Assault,Central Park,Domestic dispute escalated to physical violence resulting in minor cuts and bruises to victim.,1
+CR-2019-10763,2022-07-09,Assault,North District,Victim sustained lacerations requiring stitches after altercation with suspect at parking lot.,0
+CR-2022-10764,2023-10-21,Burglary,East District,Business broken into overnight. front door showed signs of forced entry. cash and electronics reported missing.,0
+CR-2021-10765,2023-08-04,Theft,University Campus,Suspect took victim's identity documents when victim was not looking at library.,0
+CR-2022-10766,2024-03-23,Theft,Industrial Area,Victim reported jewelry stolen from public restroom. No witnesses present.,0
+CR-2022-10767,2025-01-04,Robbery,South District,Victim was approached by 1 suspects who took laptop by force.,1
+CR-2021-10768,2023-01-31,Harassment,East District,Victim received 6 threatening messages from known suspect over 1 months.,0
+CR-2021-10769,2023-01-20,Other,South District,Trespassing incident at closed business premises after hours.,0
+CR-2022-10770,2024-02-26,Theft,South District,Victim's phone was taken while they were dining. No suspects identified.,0
+CR-2022-10771,2024-02-25,Theft,North District,Victim reported vehicle stolen from restaurant. No witnesses present.,0
+CR-2022-10772,2022-11-14,Theft,Downtown,Unknown suspect stole laptop from victim's restaurant. No surveillance footage available.,0
+CR-2021-10773,2024-08-07,Theft,West District,Victim's laptop was taken while they were dining. No suspects identified.,0
+CR-2018-10774,2023-02-16,Homicide,Central Park,Domestic dispute escalated resulting in fatal gunshot wounds to victim.,1
+CR-2020-10775,2022-11-08,Theft,North District,Victim's jewelry was taken while they were commuting. No suspects identified.,0
+CR-2021-10776,2023-09-02,Vandalism,East District,Vehicle's tires was deliberately damaged while parked at bus stop.,0
+CR-2018-10777,2023-01-13,Theft,East District,Unknown suspect stole laptop from victim's office. No surveillance footage available.,0
+CR-2019-10778,2022-05-18,Theft,Central Park,Victim's bicycle was taken while they were walking. No suspects identified.,0
+CR-2018-10779,2024-12-18,Other,Downtown,Violation of restraining order when suspect approached protected person.,0
+CR-2018-10780,2024-06-09,Fraud,North District,Victim reported unauthorized transactions totaling $5000 on their credit card.,1
+CR-2018-10781,2024-10-19,Fraud,Central Park,Victim reported unauthorized transactions totaling $50000 on their credit card.,1
+CR-2018-10782,2023-10-31,Burglary,Shopping Mall,Home invasion occurred while residents were away. balcony door was damaged. cash and electronics missing.,0
+CR-2019-10783,2022-07-29,Theft,Downtown,Victim's vehicle was taken while they were commuting. No suspects identified.,0
+CR-2018-10784,2025-01-17,Drug Offense,West District,Anonymous tip led to discovery of hallucinogens manufacturing operation.,0
+CR-2018-10785,2024-05-18,Theft,Downtown,Victim reported wallet stolen from park bench. No witnesses present.,0
+CR-2021-10786,2022-12-17,Harassment,West District,Victim received 11 threatening messages from known suspect over 2 months.,0
+CR-2021-10787,2022-10-08,Assault,East District,Domestic dispute escalated to physical violence resulting in minor cuts and bruises to victim.,0
+CR-2018-10788,2024-12-04,Assault,East District,Domestic dispute escalated to physical violence resulting in black eye to victim.,1
+CR-2021-10789,2023-04-20,Theft,Industrial Area,Suspect took victim's bicycle when victim was not looking at public restroom.,0
+CR-2019-10790,2024-02-19,Assault,North District,Victim sustained concussion after altercation with suspect at restaurant.,1
+CR-2020-10791,2024-10-27,Robbery,East District,Suspect threatened victim with taser before taking purse.,1
+CR-2018-10792,2023-03-21,Assault,North District,Domestic dispute escalated to physical violence resulting in concussion to victim.,0
+CR-2022-10793,2024-02-04,Burglary,Downtown,Forced entry through skylight. electronics and jewelry were stolen. No alarm system triggered.,0
+CR-2019-10794,2023-07-12,Drug Offense,North District,Search warrant execution revealed prescription pills and paraphernalia in suspect's residence.,0
+CR-2020-10795,2023-02-23,Robbery,North District,"Armed suspect demanded money from store clerk, escaped with $683.",1
+CR-2020-10796,2025-01-25,Kidnapping,Downtown,"Child taken by non-custodial parent across state lines, violation of custody agreement.",1
+CR-2021-10797,2022-08-07,Theft,South District,Victim reported phone stolen from library. No witnesses present.,0
+CR-2022-10798,2022-09-03,Drug Offense,North District,Suspect observed selling cocaine near store.,0
+CR-2018-10799,2024-08-09,Fraud,North District,"Suspect used victim's identity to open bank accounts, causing financial damage of $7500.",1
+CR-2018-10800,2022-06-05,Assault,West District,Victim sustained fractured ribs after altercation with suspect at gym.,0
+CR-2022-10801,2023-10-27,Burglary,Transit Station,Forced entry through side entrance. jewelry and watches were stolen. No alarm system triggered.,0
+CR-2021-10802,2023-05-12,Drug Offense,Downtown,Suspect found in possession of heroin during routine traffic stop.,0
+CR-2020-10803,2022-08-22,Vandalism,Downtown,"Public playground equipment was destroyed, causing $1123 in damages. No witnesses.",0
+CR-2022-10804,2023-03-20,Other,Shopping Mall,"Suspicious activity reported near park bench, investigation ongoing.",0
+CR-2019-10805,2022-11-04,Theft,University Campus,Victim reported laptop stolen from office. No witnesses present.,0
+CR-2022-10806,2024-02-26,Vandalism,West District,Property damaged by graffiti depicting gang symbols. Estimated repair cost: $600.,0
+CR-2018-10807,2025-01-29,Fraud,East District,"Suspect used victim's identity to open credit card accounts, causing financial damage of $2500.",1
+CR-2020-10808,2022-11-10,Drug Offense,East District,Search warrant execution revealed cocaine and paraphernalia in suspect's residence.,0
+CR-2019-10809,2022-11-21,Theft,University Campus,Suspect took victim's cash when victim was not looking at store.,0
+CR-2020-10810,2023-10-21,Theft,East District,Victim reported vehicle stolen from store. No witnesses present.,0
+CR-2021-10811,2023-04-18,Fraud,West District,Victim reported unauthorized transactions totaling $2500 on their credit card.,0
+CR-2020-10812,2022-06-28,Vandalism,East District,Property damaged by graffiti depicting tags and signatures. Estimated repair cost: $241.,0
+CR-2018-10813,2022-07-25,Theft,Downtown,Victim reported identity documents stolen from library. No witnesses present.,0
+CR-2021-10814,2025-04-09,Theft,South District,Unknown suspect stole laptop from victim's sidewalk. No surveillance footage available.,0
+CR-2022-10815,2024-02-07,Other,Downtown,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2021-10816,2023-12-17,Burglary,Downtown,Home invasion occurred while residents were away. pet door was damaged. cash and electronics missing.,0
+CR-2018-10817,2024-09-13,Burglary,Shopping Mall,Suspect broke into residence via garage door and took electronics and jewelry. No witnesses.,1
+CR-2018-10818,2022-07-08,Other,South District,Violation of restraining order when suspect approached protected person.,0
+CR-2022-10819,2022-06-01,Theft,West District,Suspect took victim's identity documents when victim was not looking at store.,0
+CR-2018-10820,2024-08-05,Theft,South District,Unknown suspect stole wallet from victim's gym. No surveillance footage available.,0
+CR-2020-10821,2023-04-18,Burglary,South District,Forced entry through basement window. electronics and cash were stolen. No alarm system triggered.,0
+CR-2018-10822,2024-10-17,Fraud,East District,"Suspect used victim's identity to open investment accounts, causing financial damage of $15000.",1
+CR-2018-10823,2025-03-16,Theft,West District,Victim reported phone stolen from sidewalk. No witnesses present.,0
+CR-2018-10824,2024-05-12,Harassment,West District,Victim received 10 threatening messages from known suspect over 5 months.,0
+CR-2018-10825,2022-06-24,Theft,Shopping Mall,Victim's purse was taken while they were dining. No suspects identified.,0
+CR-2020-10826,2022-06-16,Assault,North District,Physical altercation between victim and known suspect resulted in black eye.,0
+CR-2018-10827,2023-03-13,Fraud,South District,Victim reported unauthorized transactions totaling $15000 on their credit card.,0
+CR-2019-10828,2024-01-15,Robbery,Shopping Mall,Victim was approached by 2 suspects who took jewelry by force.,1
+CR-2022-10829,2023-09-02,Theft,East District,Unknown suspect stole jewelry from victim's library. No surveillance footage available.,0
+CR-2018-10830,2025-01-25,Vandalism,East District,Vehicle's hood was deliberately damaged while parked at park bench.,0
+CR-2020-10831,2023-08-23,Burglary,Shopping Mall,Forced entry through garage door. artwork and antiques were stolen. No alarm system triggered.,0
+CR-2020-10832,2023-02-05,Burglary,South District,Business broken into overnight. balcony door showed signs of forced entry. artwork and antiques reported missing.,0
+CR-2022-10833,2024-01-25,Theft,Central Park,Victim reported identity documents stolen from store. No witnesses present.,0
+CR-2019-10834,2023-07-05,Harassment,West District,Online harassment campaign targeted victim with false accusations.,0
+CR-2019-10835,2024-02-25,Assault,West District,Victim sustained broken nose after altercation with suspect at sidewalk.,1
+CR-2022-10836,2022-07-17,Assault,East District,Victim sustained concussion after altercation with suspect at store.,0
+CR-2020-10837,2024-05-27,Fraud,South District,Victim reported unauthorized transactions totaling $5000 on their credit card.,1
+CR-2020-10838,2024-07-16,Theft,North District,Victim's identity documents was taken while they were exercising. No suspects identified.,0
+CR-2018-10839,2024-07-17,Vandalism,Downtown,"Public bus shelter was destroyed, causing $163 in damages. No witnesses.",0
+CR-2018-10840,2025-03-13,Theft,East District,Victim's purse was taken while they were dining. No suspects identified.,0
+CR-2018-10841,2024-03-30,Other,Central Park,"Suspicious activity reported near parking lot, investigation ongoing.",0
+CR-2020-10842,2023-12-28,Robbery,South District,Victim was approached by 1 suspects who took cash by force.,1
+CR-2021-10843,2022-06-24,Theft,Shopping Mall,Victim reported vehicle stolen from park bench. No witnesses present.,0
+CR-2020-10844,2023-02-22,Fraud,North District,Victim reported unauthorized transactions totaling $500 on their credit card.,0
+CR-2022-10845,2022-06-07,Harassment,Industrial Area,Suspect repeatedly made unwanted contact with victim at their workplace.,0
+CR-2022-10846,2023-12-29,Burglary,East District,Forced entry through rear window. artwork and antiques were stolen. No alarm system triggered.,0
+CR-2018-10847,2024-09-13,Theft,South District,Victim reported phone stolen from park bench. No witnesses present.,0
+CR-2020-10848,2022-08-03,Assault,Downtown,Domestic dispute escalated to physical violence resulting in defensive wounds on hands to victim.,0
+CR-2022-10849,2022-07-12,Harassment,Industrial Area,Online harassment campaign targeted victim with private information.,0
+CR-2020-10850,2023-06-04,Assault,East District,Unprovoked attack by unknown suspect left victim with minor cuts and bruises. Witnesses described suspect as medium-built female with distinctive tattoos.,1
+CR-2022-10851,2024-01-29,Vandalism,South District,Property damaged by graffiti depicting racial slurs. Estimated repair cost: $1368.,0
+CR-2022-10852,2023-12-04,Vandalism,West District,Business storefront windows broken with brick. Surveillance camera captured incident.,0
+CR-2019-10853,2024-02-07,Fraud,North District,"Suspect used victim's identity to open online shopping accounts, causing financial damage of $50000.",0
+CR-2020-10854,2023-06-06,Homicide,North District,Victim found deceased with strangulation. Crime scene indicates signs of struggle.,1
+CR-2019-10855,2025-01-30,Fraud,Downtown,"Business reported accounting discrepancies amounting to $50000, suspected internal fraud.",1
+CR-2019-10856,2025-02-14,Theft,Downtown,Unknown suspect stole vehicle from victim's office. No surveillance footage available.,0
+CR-2020-10857,2022-08-12,Theft,University Campus,Victim's bicycle was taken while they were shopping. No suspects identified.,0
+CR-2020-10858,2022-08-31,Assault,South District,Unprovoked attack by unknown suspect left victim with concussion. Witnesses described suspect as young male in hooded sweatshirt.,0
+CR-2020-10859,2022-10-28,Drug Offense,West District,Suspect found in possession of hallucinogens during routine traffic stop.,0
+CR-2018-10860,2024-11-17,Burglary,East District,Home invasion occurred while residents were away. basement window was damaged. cash and electronics missing.,1
+CR-2018-10861,2024-11-01,Theft,University Campus,Victim reported laptop stolen from bus stop. No witnesses present.,0
+CR-2018-10862,2022-12-17,Theft,North District,Victim reported laptop stolen from park bench. No witnesses present.,0
+CR-2019-10863,2022-05-03,Theft,South District,Unknown suspect stole phone from victim's restaurant. No surveillance footage available.,0
+CR-2018-10864,2025-02-10,Robbery,University Campus,Suspect threatened victim with handgun before taking jewelry.,1
+CR-2018-10865,2023-09-27,Harassment,West District,Victim reported ongoing harassment by neighbor including verbal threats.,0
+CR-2020-10866,2023-10-09,Drug Offense,West District,Suspect observed selling cocaine near library.,0
+CR-2021-10867,2022-05-11,Vandalism,West District,Property damaged by graffiti depicting gang symbols. Estimated repair cost: $215.,0
+CR-2018-10868,2023-09-03,Harassment,North District,Online harassment campaign targeted victim with private information.,0
+CR-2021-10869,2024-11-18,Burglary,East District,Suspect broke into residence via balcony door and took jewelry and watches. No witnesses.,1
+CR-2022-10870,2023-03-21,Robbery,South District,Victim was approached by 2 suspects who took wallet by force.,1
+CR-2020-10871,2022-09-02,Theft,South District,Suspect took victim's vehicle when victim was not looking at restaurant.,0
+CR-2019-10872,2023-06-25,Burglary,North District,Home invasion occurred while residents were away. front door was damaged. personal documents and valuables missing.,0
+CR-2021-10873,2024-05-06,Fraud,University Campus,"Business reported accounting discrepancies amounting to $100000, suspected internal fraud.",0
+CR-2021-10874,2022-08-10,Drug Offense,Downtown,Suspect observed selling methamphetamine near store.,0
+CR-2019-10875,2023-03-15,Robbery,South District,Victim was approached by 3 suspects who took cash by force.,1
+CR-2022-10876,2024-01-11,Theft,South District,Unknown suspect stole phone from victim's office. No surveillance footage available.,0
+CR-2020-10877,2022-11-08,Burglary,Downtown,Suspect broke into residence via garage door and took artwork and antiques. No witnesses.,0
+CR-2021-10878,2024-08-06,Drug Offense,West District,Suspect observed selling synthetic drugs near sidewalk.,0
+CR-2020-10879,2024-09-30,Drug Offense,South District,Anonymous tip led to discovery of cocaine manufacturing operation.,0
+CR-2021-10880,2024-02-16,Robbery,Central Park,"Bank robbery involving suspect with baseball bat, escaped with undisclosed amount.",1
+CR-2018-10881,2022-12-22,Fraud,East District,Victim was deceived into transferring $100000 to fraudulent investment scheme.,0
+CR-2019-10882,2023-08-14,Theft,West District,Victim reported credit cards stolen from restaurant. No witnesses present.,0
+CR-2020-10883,2023-11-20,Drug Offense,North District,Suspect found in possession of cocaine during routine traffic stop.,0
+CR-2022-10884,2023-05-22,Burglary,East District,Home invasion occurred while residents were away. garage door was damaged. jewelry and watches missing.,0
+CR-2022-10885,2024-08-21,Homicide,East District,Victim found deceased with severe beating. Crime scene indicates signs of struggle.,1
+CR-2019-10886,2024-08-07,Assault,West District,Domestic dispute escalated to physical violence resulting in facial bruising to victim.,1
+CR-2020-10887,2025-03-15,Fraud,Industrial Area,"Suspect used victim's identity to open utility accounts, causing financial damage of $1200.",1
+CR-2021-10888,2024-01-26,Assault,Downtown,Unprovoked attack by unknown suspect left victim with lacerations requiring stitches. Witnesses described suspect as tall male in dark clothing.,1
+CR-2018-10889,2023-09-12,Theft,South District,Victim's credit cards was taken while they were working. No suspects identified.,0
+CR-2019-10890,2024-04-21,Assault,East District,Domestic dispute escalated to physical violence resulting in defensive wounds on hands to victim.,1
+CR-2018-10891,2022-12-11,Drug Offense,Central Park,Search warrant execution revealed marijuana and paraphernalia in suspect's residence.,0
+CR-2022-10892,2024-12-31,Burglary,Downtown,Suspect broke into residence via garage door and took artwork and antiques. No witnesses.,1
+CR-2019-10893,2024-10-25,Fraud,North District,Victim reported unauthorized transactions totaling $500 on their credit card.,1
+CR-2022-10894,2024-12-16,Robbery,South District,"Armed suspect demanded money from store clerk, escaped with $702.",1
+CR-2021-10895,2023-03-22,Burglary,South District,Home invasion occurred while residents were away. garage door was damaged. artwork and antiques missing.,0
+CR-2018-10896,2023-11-12,Burglary,South District,Suspect broke into residence via front door and took electronics and cash. No witnesses.,0
+CR-2020-10897,2024-07-22,Theft,West District,Victim reported jewelry stolen from park bench. No witnesses present.,0
+CR-2018-10898,2022-06-11,Theft,East District,Victim reported cash stolen from restaurant. No witnesses present.,0
+CR-2022-10899,2023-07-15,Other,Industrial Area,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2019-10900,2023-03-13,Robbery,West District,"Armed suspect demanded money from store clerk, escaped with $728.",1
+CR-2020-10901,2023-02-09,Other,Central Park,Trespassing incident at closed business premises after hours.,0
+CR-2022-10902,2023-07-18,Theft,South District,Unknown suspect stole laptop from victim's public restroom. No surveillance footage available.,0
+CR-2022-10903,2024-06-05,Theft,Downtown,Victim's vehicle was taken while they were talking with others. No suspects identified.,0
+CR-2020-10904,2024-10-19,Robbery,East District,Victim was approached by 2 suspects who took wallet by force.,1
+CR-2021-10905,2023-08-30,Theft,Downtown,Victim reported bicycle stolen from park bench. No witnesses present.,0
+CR-2019-10906,2025-01-02,Burglary,Downtown,Suspect broke into residence via front door and took electronics and jewelry. No witnesses.,1
+CR-2020-10907,2023-09-13,Drug Offense,Industrial Area,Anonymous tip led to discovery of cocaine manufacturing operation.,0
+CR-2019-10908,2023-03-21,Fraud,Transit Station,Victim reported unauthorized transactions totaling $25000 on their credit card.,0
+CR-2020-10909,2024-02-28,Drug Offense,Downtown,Suspect observed selling hallucinogens near gym.,0
+CR-2018-10910,2025-03-23,Fraud,Shopping Mall,"Business reported accounting discrepancies amounting to $25000, suspected internal fraud.",1
+CR-2019-10911,2024-03-11,Fraud,West District,Victim reported unauthorized transactions totaling $50000 on their credit card.,0
+CR-2022-10912,2024-06-04,Assault,Industrial Area,Physical altercation between victim and known suspect resulted in fractured ribs.,1
+CR-2019-10913,2025-02-17,Theft,South District,Suspect took victim's credit cards when victim was not looking at parking lot.,0
+CR-2019-10914,2024-03-10,Burglary,University Campus,Business broken into overnight. pet door showed signs of forced entry. personal documents and valuables reported missing.,0
+CR-2022-10915,2024-11-11,Assault,West District,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,1
+CR-2018-10916,2025-01-11,Theft,East District,Suspect took victim's purse when victim was not looking at public restroom.,0
+CR-2018-10917,2025-04-08,Robbery,South District,"Bank robbery involving suspect with handgun, escaped with undisclosed amount.",1
+CR-2021-10918,2023-05-27,Assault,West District,Domestic dispute escalated to physical violence resulting in black eye to victim.,1
+CR-2022-10919,2023-06-20,Theft,Downtown,Suspect took victim's credit cards when victim was not looking at sidewalk.,0
+CR-2018-10920,2023-04-26,Theft,South District,Victim's wallet was taken while they were working. No suspects identified.,0
+CR-2021-10921,2022-09-29,Fraud,South District,Victim reported unauthorized transactions totaling $25000 on their credit card.,0
+CR-2022-10922,2024-12-14,Fraud,Industrial Area,"Suspect used victim's identity to open online shopping accounts, causing financial damage of $5000.",1
+CR-2019-10923,2024-09-08,Burglary,Downtown,Suspect broke into residence via rear window and took artwork and antiques. No witnesses.,1
+CR-2022-10924,2023-02-06,Theft,Shopping Mall,Victim reported cash stolen from bus stop. No witnesses present.,0
+CR-2021-10925,2024-01-04,Theft,West District,Unknown suspect stole jewelry from victim's public restroom. No surveillance footage available.,0
+CR-2020-10926,2023-09-17,Assault,University Campus,Domestic dispute escalated to physical violence resulting in black eye to victim.,1
+CR-2020-10927,2022-07-13,Homicide,Downtown,Multiple gunshot wounds led to victim's death in apparent targeted attack.,1
+CR-2020-10928,2022-11-14,Theft,West District,Victim reported vehicle stolen from park bench. No witnesses present.,0
+CR-2018-10929,2023-12-14,Robbery,Downtown,"Armed suspect demanded money from store clerk, escaped with $898.",1
+CR-2021-10930,2024-11-16,Drug Offense,Shopping Mall,Suspect found in possession of prescription pills during routine traffic stop.,0
+CR-2022-10931,2023-08-23,Burglary,Downtown,Home invasion occurred while residents were away. balcony door was damaged. artwork and antiques missing.,0
+CR-2021-10932,2023-11-07,Theft,South District,Unknown suspect stole cash from victim's library. No surveillance footage available.,0
+CR-2019-10933,2024-10-30,Theft,Downtown,Victim reported phone stolen from sidewalk. No witnesses present.,0
+CR-2020-10934,2023-11-21,Assault,North District,Physical altercation between victim and known suspect resulted in black eye.,1
+CR-2020-10935,2022-08-04,Drug Offense,North District,Suspect observed selling synthetic drugs near bus stop.,0
+CR-2021-10936,2024-01-26,Burglary,South District,Forced entry through pet door. personal documents and valuables were stolen. No alarm system triggered.,0
+CR-2022-10937,2025-02-16,Theft,North District,Unknown suspect stole wallet from victim's store. No surveillance footage available.,0
+CR-2021-10938,2022-09-29,Harassment,Downtown,Victim reported ongoing harassment by neighbor including spreading rumors.,0
+CR-2019-10939,2022-05-17,Burglary,East District,Suspect broke into residence via garage door and took personal documents and valuables. No witnesses.,0
+CR-2022-10940,2022-10-25,Fraud,East District,"Business reported accounting discrepancies amounting to $10000, suspected internal fraud.",0
+CR-2020-10941,2025-04-09,Assault,North District,Domestic dispute escalated to physical violence resulting in lacerations requiring stitches to victim.,1
+CR-2018-10942,2022-07-31,Burglary,South District,Suspect broke into residence via skylight and took jewelry and watches. No witnesses.,0
+CR-2022-10943,2024-03-04,Fraud,Transit Station,"Business reported accounting discrepancies amounting to $50000, suspected internal fraud.",0
+CR-2018-10944,2022-07-31,Burglary,East District,Forced entry through garage door. electronics and jewelry were stolen. No alarm system triggered.,0
+CR-2022-10945,2024-08-12,Vandalism,University Campus,"Public park bench was destroyed, causing $1137 in damages. No witnesses.",0
+CR-2019-10946,2024-12-22,Assault,Central Park,Physical altercation between victim and known suspect resulted in concussion.,1
+CR-2021-10947,2025-03-13,Harassment,South District,Victim received 17 threatening messages from known suspect over 1 months.,1
+CR-2020-10948,2022-06-03,Assault,North District,Unprovoked attack by unknown suspect left victim with fractured ribs. Witnesses described suspect as person wearing mask and gloves.,0
+CR-2021-10949,2022-10-20,Vandalism,Downtown,Business storefront windows broken with skateboard. Surveillance camera captured incident.,0
+CR-2022-10950,2024-09-09,Other,Downtown,Violation of restraining order when suspect approached protected person.,0
+CR-2020-10951,2025-01-27,Assault,Industrial Area,Domestic dispute escalated to physical violence resulting in broken nose to victim.,1
+CR-2021-10952,2024-08-08,Drug Offense,Downtown,Suspect observed selling methamphetamine near restaurant.,0
+CR-2021-10953,2022-06-08,Burglary,North District,Home invasion occurred while residents were away. front door was damaged. personal documents and valuables missing.,0
+CR-2022-10954,2024-05-13,Robbery,North District,"Armed suspect demanded money from store clerk, escaped with $841.",1
+CR-2022-10955,2023-06-12,Other,East District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2018-10956,2022-04-22,Burglary,Central Park,Suspect broke into residence via side entrance and took jewelry and watches. No witnesses.,0
+CR-2020-10957,2024-03-15,Burglary,West District,Business broken into overnight. rear window showed signs of forced entry. jewelry and watches reported missing.,0
+CR-2022-10958,2023-02-18,Drug Offense,North District,Suspect found in possession of heroin during routine traffic stop.,0
+CR-2022-10959,2024-05-17,Fraud,East District,"Suspect used victim's identity to open credit card accounts, causing financial damage of $100000.",0
+CR-2021-10960,2023-09-23,Drug Offense,East District,Anonymous tip led to discovery of methamphetamine manufacturing operation.,0
+CR-2018-10961,2023-01-17,Burglary,North District,Home invasion occurred while residents were away. side entrance was damaged. artwork and antiques missing.,0
+CR-2021-10962,2023-08-10,Fraud,Downtown,"Business reported accounting discrepancies amounting to $10000, suspected internal fraud.",0
+CR-2019-10963,2022-08-03,Other,East District,Trespassing incident at closed business premises after hours.,0
+CR-2020-10964,2024-03-15,Fraud,Downtown,"Business reported accounting discrepancies amounting to $7500, suspected internal fraud.",0
+CR-2021-10965,2024-09-19,Assault,South District,Victim sustained facial bruising after altercation with suspect at office.,1
+CR-2018-10966,2024-09-03,Other,South District,Trespassing incident at closed business premises after hours.,0
+CR-2019-10967,2024-06-05,Drug Offense,Central Park,Suspect found in possession of heroin during routine traffic stop.,0
+CR-2018-10968,2024-11-07,Theft,West District,Unknown suspect stole bicycle from victim's store. No surveillance footage available.,0
+CR-2021-10969,2024-03-30,Robbery,Downtown,Suspect threatened victim with pepper spray before taking bicycle.,1
+CR-2021-10970,2024-10-28,Fraud,South District,"Suspect used victim's identity to open online shopping accounts, causing financial damage of $50000.",1
+CR-2018-10971,2025-03-19,Theft,South District,Victim reported vehicle stolen from gym. No witnesses present.,0
+CR-2018-10972,2022-09-03,Vandalism,Downtown,Vehicle's interior was deliberately damaged while parked at sidewalk.,0
+CR-2018-10973,2024-10-06,Burglary,Downtown,Business broken into overnight. skylight showed signs of forced entry. jewelry and watches reported missing.,1
+CR-2018-10974,2022-08-01,Robbery,South District,"Armed suspect demanded money from store clerk, escaped with $1244.",0
+CR-2020-10975,2023-12-22,Theft,Central Park,Unknown suspect stole laptop from victim's office. No surveillance footage available.,0
+CR-2019-10976,2024-04-18,Harassment,Industrial Area,Victim reported ongoing harassment by neighbor including verbal threats.,0
+CR-2019-10977,2023-12-21,Theft,Industrial Area,Suspect took victim's bicycle when victim was not looking at public restroom.,0
+CR-2018-10978,2022-11-29,Assault,North District,Physical altercation between victim and known suspect resulted in minor cuts and bruises.,0
+CR-2022-10979,2025-04-07,Theft,West District,Unknown suspect stole purse from victim's bus stop. No surveillance footage available.,0
+CR-2020-10980,2023-01-14,Drug Offense,Downtown,Anonymous tip led to discovery of synthetic drugs manufacturing operation.,0
+CR-2021-10981,2023-02-03,Homicide,West District,Victim discovered deceased in store with suspicious circumstances.,1
+CR-2019-10982,2022-10-10,Burglary,University Campus,Home invasion occurred while residents were away. side entrance was damaged. artwork and antiques missing.,0
+CR-2021-10983,2024-12-18,Vandalism,West District,Property damaged by graffiti depicting tags and signatures. Estimated repair cost: $209.,0
+CR-2020-10984,2022-12-24,Burglary,Downtown,Business broken into overnight. side entrance showed signs of forced entry. artwork and antiques reported missing.,0
+CR-2020-10985,2024-06-20,Burglary,North District,Forced entry through garage door. cash and electronics were stolen. No alarm system triggered.,1
+CR-2018-10986,2023-07-07,Other,Shopping Mall,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2019-10987,2024-10-02,Theft,Downtown,Victim's vehicle was taken while they were working. No suspects identified.,0
+CR-2021-10988,2023-08-01,Burglary,South District,Home invasion occurred while residents were away. garage door was damaged. electronics and jewelry missing.,0
+CR-2019-10989,2024-10-22,Assault,West District,Domestic dispute escalated to physical violence resulting in fractured ribs to victim.,1
+CR-2019-10990,2024-10-18,Vandalism,East District,Property damaged by graffiti depicting gang symbols. Estimated repair cost: $1025.,0
+CR-2020-10991,2022-09-15,Robbery,Central Park,"Bank robbery involving suspect with blunt object, escaped with undisclosed amount.",0
+CR-2018-10992,2023-01-12,Assault,Industrial Area,Domestic dispute escalated to physical violence resulting in black eye to victim.,0
+CR-2021-10993,2022-09-25,Harassment,South District,Online harassment campaign targeted victim with private information.,0
+CR-2021-10994,2022-07-12,Burglary,Downtown,Home invasion occurred while residents were away. rear window was damaged. personal documents and valuables missing.,0
+CR-2018-10995,2024-02-15,Other,East District,Noise complaint escalated requiring police intervention at residential property.,0
+CR-2021-10996,2024-01-04,Theft,West District,Victim reported laptop stolen from bus stop. No witnesses present.,0
+CR-2018-10997,2024-09-16,Burglary,South District,Home invasion occurred while residents were away. garage door was damaged. electronics and jewelry missing.,1
+CR-2019-10998,2024-09-10,Fraud,South District,"Business reported accounting discrepancies amounting to $50000, suspected internal fraud.",0
+CR-2022-10999,2024-12-25,Theft,East District,Suspect took victim's purse when victim was not looking at parking lot.,0
